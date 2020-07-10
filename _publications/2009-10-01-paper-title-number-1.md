@@ -1,5 +1,7 @@
 ---
-title: "Paper Title Number 1"
+title: "DIMENSION: Dynamic MR imaging with both k-space and
+spatial prior knowledge obtained via multi-supervised network
+training"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
