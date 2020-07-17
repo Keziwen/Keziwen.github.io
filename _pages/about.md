@@ -33,6 +33,27 @@ Ziwen Ke is a PhD student in pattern recognition and intelligent system at the S
 
 6. Shanshan Wang, **Ziwen Ke**, Huitao Cheng, Leslie Ying, Xin liu, Hairong Zheng, Dong Liang. Investigation of convolutional neural network based deep learning for cardiac imaging. *Proc. 26th Annual Meeting of ISMRM*, Paris, France: 2019 ,2786 ,1
 
+## Patents 
+1. Dong Liang, Yanjie Zhu, **Ziwen Ke**, Xin Liu, Hairong Zheng. Dynamic magnetic resonance imaging methods, devices, imaging equipment and storage media. CN202010560886.0.
+
+2. Shanshan Wang, Dong Liang, **Ziwen Ke**, Xin Liu, Hairong Zheng. A MR cardiac imaging technique based on cross domain convolutional neural network. PCT/CN2019/124239.
+
+3. Dong Liang, Shanshan Wang, **Ziwen Ke**, Xin Liu, Hairong Zheng. A MR cardiac imaging technique based on multiple supervised convolutional neural networks. PCT/CN2019/124238.
+
+4. Dong Liang, Yanjie Zhu, **Ziwen Ke**, Xin Liu, Hairong Zheng. An unsupervised deep learning method based on for parallel MR cardiac imaging. CN201911032337.X.
+
+5. Yanjie Zhu, Dong Liang, Lixian Zhu, **Ziwen Ke**, Xin Liu, Hairong Zheng. A feature tracking technique of cardiac magnetic resonance based on deep learning. CN201910857479.3.
+
+6. Yanjie Zhu, Dong Liang, **Ziwen Ke**, Xin Liu, Hairong Zheng. MR reconstruction methods, devices, storage media and terminal equipment. CN201910654538.7.
+
+7. Dong Liang, Yanjie Zhu, **Ziwen Ke**, Xin Liu, Hairong Zheng. A radial golden Angle MR cardiac cine imaging method, apparatus and apparatus. CN201910625835.9.
+
+8. Yanjie Zhu, Dong Liang, **Ziwen Ke**, Xin Liu, Hairong Zheng. A parallel MR cardiac imaging technique based on deep learning.CN201910446983.4.
+
+9. Shanshan Wang, Dong Liang, **Ziwen Ke**, Xin Liu, Hairong Zheng. A MR cardiac imaging technique based on cross domain convolutional neural network. CN201811611862.2
+
+10. Dong Liang, Shanshan Wang, **Ziwen Ke**, Xin Liu, Hairong Zheng. A MR cardiac imaging technique based on multiple supervised convolutional neural networks. CN201811654047.4.
+
 For more info
 ------
 More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
