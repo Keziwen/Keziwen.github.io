@@ -54,6 +54,8 @@ Ziwen Ke is a PhD student in pattern recognition and intelligent system at the S
 
 10. Dong Liang, Shanshan Wang, **Ziwen Ke**, Xin Liu, Hairong Zheng. A MR cardiac imaging technique based on multiple supervised convolutional neural networks. CN201811654047.4.
 
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+
+## Contact
+- Email: zw.ke@siat.ac.cn
+- Phone number: +86-15626456761
+- Wechat: kzw_love_nw
