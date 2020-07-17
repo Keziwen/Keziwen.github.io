@@ -19,6 +19,18 @@ Ziwen Ke is a PhD student in pattern recognition and intelligent system at the S
 3. Dong Liang, Jing Cheng, **Ziwen Ke**, Leslie Ying. Deep MRI Reconstruction: Inverse Problems Meet Neural Networks, IEEE Signal Processing Magazine, DOI:10.1109/MSP.2019.2950557, 2019. (JCR Q1, IF:7.602)
 
 4. Shanshan Wang, Huitao Cheng, Leslie Ying, Taohui Xiao, **Ziwen Ke**, Hairong Zheng and Dong Liang, DeepcomplexMRI: Exploiting deep residual network for fast parallel MR imaging with complex convolution. *Magnetic Resonance Imaging*, 68, 136-147. 2020. (JCR Q3, IF:2.112) 
+## Conference papers
+1. Ziwen Ke, Yanjie Zhu, Jing Cheng, Leslie Ying, Xin Liu, Hairong Zheng, and Dong Liang. An Unsupervised Deep Learning Method for Parallel MR Cardiac Imaging via Time Interleaved Sampling. *Proc. 28th Annual Meeting of ISMRM*, Paris, France, 2020, No.1000.
+
+2. Ziwen Ke, Yanjie Zhu, Jing Cheng, Leslie Ying, Xin Liu, Hairong Zheng, and Dong Liang. Assessment of the Generalization of Learned Unsupervised Deep Learning Method. *Proc. 28th Annual Meeting of ISMRM*, Paris, France, 2020, No.3630.
+
+3. Ziwen Ke, Shanshan Wang, Cheng Li, Huitao Cheng, Leslie Ying, Xin liu, Hairong Zheng, Dong Liang. A Cascaded Residual Dense Network for Cardiac MR Imaging. *Proc. 27th Annual Meeting of ISMRM*, Montreal, QC, Canada, 2019.: 2019 ,4666 ,1
+
+4. Ziwen Ke, Shanshan Wang, Huitao Cheng, Leslie Ying, Xin liu, Hairong Zheng, Dong Liang. Multi-supervised Learning in Cross-domain Networks for Cardiac Imaging. *Proc. 27th Annual Meeting of ISMRM*, Montreal, QC, Canada, 2019.: 2019 ,4701 ,1
+
+5. Shanshan Wang, Ziwen Ke, Huitao Cheng, Leslie Ying, Xin liu, Hairong Zheng, Dong Liang. Edge-enhanced Loss Constraint for Deep Learning Based Dynamic MR Imaging. *Proc. 27th Annual Meeting of ISMRM*, Montreal, QC, Canada, 2019.: 2019 ,4712 ,1 
+
+6. Shanshan Wang, Ziwen Ke, Huitao Cheng, Leslie Ying, Xin liu, Hairong Zheng, Dong Liang. Investigation of convolutional neural network based deep learning for cardiac imaging. *Proc. 26th Annual Meeting of ISMRM*, Paris, France: 2019 ,2786 ,1
 
 For more info
 ------
