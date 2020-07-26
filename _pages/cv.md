@@ -35,16 +35,18 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
+Honors/Awards
+======
+* “Model Student of Merit”, 2020, University of Chinese Academy of Sciences.
 
-<div style='display: none'>
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+* “Excellent party member”, 2020, Shenzhen Institutes of Advanced Technology，Chinese Academy of Sciences.
+
+* “Dean’s Scholarship - Excellence Award”, 2020, Shenzhen Institutes of Advanced Technology，Chinese Academy of Sciences.
+
+* “Certificate of Reviewing”, 2019, The Editors of Biomedical Signal Processing and Control.
+
+* “First prize in youth thesis competition”, 2018, Chinese Biomedical Engineering Joint Academic Annual Meeting.
+
+* “School merit student”, 2017, University of Chinese Academy of Sciences.
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
-<div>
 
