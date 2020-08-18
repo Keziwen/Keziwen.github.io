@@ -12,7 +12,7 @@ Ziwen Ke is a PhD student in pattern recognition and intelligent system at the S
 
 ## Publications
 ### Journal papers
-1. **Ziwen Ke**, Jing Cheng, Leslie Ying, Hairong Zheng, Yanjie Zhu, Dong Liang. An Unsupervised Deep Learning Method for Multi-coil Cine MRI. *Physics in Medicine and Biology*, accept, 2020.
+1. **Ziwen Ke**, Jing Cheng, Leslie Ying, Hairong Zheng, Yanjie Zhu, Dong Liang. An Unsupervised Deep Learning Method for Multi-coil Cine MRI. *Physics in Medicine and Biology*, https://doi.org/10.1088/1361-6560/abaffa, accept, 2020.
 2. Shanshan Wang#, **Ziwen Ke**#, Huitao Cheng, Sen Jia, Leslie Ying, Hairong Zheng, Dong Liang. DIMENSION: Dynamic MR Imaging with Both K-space and Spatial Prior Knowledge Obtained via Multi-Supervised Network Training. *NMR in Biomedicine*: 2019 ,DOI: 10.1002/nbm.4131  (#co-first author)
 
 3. Huangxuan Zhao#, **Ziwen Ke**#, Ningbo Chen, Ke Li, Lidai Wang, Xiaojing Gong, Wei Zheng, Liang Song, Zhicheng Liu, Dong Liang , Chengbo Liu. A new deep learning method for image deblurring in optical microscopic systems. *Journal of Biophotonics*, DOI: 10.1002/jbio.201960147. (#co-first author)
