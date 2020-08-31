@@ -59,17 +59,3 @@ Patents
 10. Shanshan Wang, Dong Liang, **Ziwen Ke**, Xin Liu, Hairong Zheng. A MR cardiac imaging technique based on cross domain convolutional neural network. CN201811611862.2
 
 11. Dong Liang, Shanshan Wang, **Ziwen Ke**, Xin Liu, Hairong Zheng. A MR cardiac imaging technique based on multiple supervised convolutional neural networks. CN201811654047.4.
-  
-Honors/Awards
-======
-* “Model Student of Merit”, 2020, University of Chinese Academy of Sciences.
-
-* “Excellent party member”, 2020, Shenzhen Institutes of Advanced Technology，Chinese Academy of Sciences.
-
-* “Dean’s Scholarship - Excellence Award”, 2020, Shenzhen Institutes of Advanced Technology，Chinese Academy of Sciences.
-
-* “Certificate of Reviewing”, 2019, The Editors of Biomedical Signal Processing and Control.
-
-* “First prize in youth thesis competition”, 2018, Chinese Biomedical Engineering Joint Academic Annual Meeting.
-
-* “School merit student”, 2017, University of Chinese Academy of Sciences.
