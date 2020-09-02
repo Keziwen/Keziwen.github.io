@@ -79,3 +79,5 @@ Ziwen Ke is a PhD student in pattern recognition and intelligent system at the S
 - Email: zw.ke@siat.ac.cn
 - Phone number: +86-15626456761
 - Wechat: kzw_love_nw
+
+[![Page Views Count](https://badges.toozhao.com/badges/01EH68SP50A8S6PDGXY8Q0QSSE/green.svg)](https://badges.toozhao.com/badges/01EH68SP50A8S6PDGXY8Q0QSSE/green.svg "Get your own page views count badge on badges.toozhao.com")
