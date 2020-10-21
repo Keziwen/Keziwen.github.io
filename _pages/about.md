@@ -63,6 +63,11 @@ Ziwen Ke is a PhD student in pattern recognition and intelligent system at the S
 
 11. Dong Liang, Shanshan Wang, **Ziwen Ke**, Xin Liu, Hairong Zheng. A MR cardiac imaging technique based on multiple supervised convolutional neural networks. CN201811654047.4.
 
+12. Yanjie Zhu, Dong Liang, **Ziwen Ke**, Xin Liu, Hairong Zheng. Dynamic medical imaging methods, devices, devices and storage media. PCT/CN2020/117306.
+
+13. Dong Liang, Yanjie Zhu, **Ziwen Ke**, Xin Liu, Hairong Zheng. Magnetic resonance film imaging methods, devices, imaging equipment and storage media. 
+PCT/CN2020/117462.
+
 ## Honors/Awards
 1. "Model Student of Merit", 2020, University of Chinese Academy of Sciences.
 
