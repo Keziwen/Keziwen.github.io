@@ -69,17 +69,19 @@ Ziwen Ke is a PhD student in pattern recognition and intelligent system at the S
 PCT/CN2020/117462.
 
 ## Honors/Awards
-1. "Model Student of Merit", 2020, University of Chinese Academy of Sciences.
+1. "National Scholarship", 2020, The Ministry of National Education.
 
-2. "Excellent Party Member", 2020, Shenzhen Institutes of Advanced Technology，Chinese Academy of Sciences.
+2. "Model Student of Merit", 2020, University of Chinese Academy of Sciences.
 
-3. "Dean's Scholarship - Excellence Award", 2020, Shenzhen Institutes of Advanced Technology，Chinese Academy of Sciences.
+3. "Excellent Party Member", 2020, Shenzhen Institutes of Advanced Technology，Chinese Academy of Sciences.
 
-4. "Certificate of Reviewing", 2019, The Editors of Biomedical Signal Processing and Control.
+4. "Dean's Scholarship - Excellence Award", 2020, Shenzhen Institutes of Advanced Technology，Chinese Academy of Sciences.
 
-5. "First Prize in Youth Thesis Competition", 2018, Chinese Biomedical Engineering Joint Academic Annual Meeting.
+5. "Certificate of Reviewing", 2019, The Editors of Biomedical Signal Processing and Control.
 
-6. "School Merit Student", 2017, University of Chinese Academy of Sciences.
+6. "First Prize in Youth Thesis Competition", 2018, Chinese Biomedical Engineering Joint Academic Annual Meeting.
+
+7. "School Merit Student", 2017, University of Chinese Academy of Sciences.
 
 
 ## Contact
