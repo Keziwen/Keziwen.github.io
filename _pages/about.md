@@ -83,7 +83,9 @@ PCT/CN2020/117462.
 
 7. "School Merit Student", 2017, University of Chinese Academy of Sciences.
 
-8. "National Scholarship" (Undergraduate), 2014, The Ministry of National Education.
+8. "Outstanding Graduate", 2016, Southern Medical University.
+
+9. "National Scholarship" (Undergraduate), 2014, The Ministry of National Education.
 
 
 ## Contact
