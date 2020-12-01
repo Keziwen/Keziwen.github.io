@@ -14,7 +14,7 @@ Ziwen Ke is a PhD student in pattern recognition and intelligent system at the S
 ### Journal papers
 - Huangxuan Zhao#, **Ziwen Ke**#, Ke Li, Ningbo Chen, Liang Song, Chuansheng Zheng, Dong Liang, and Chengbo Liu. Deep learning enables superior photoacoustic imaging at ultra-low laser dosages. *Advanced Science*, accept, 2020. (#co-first author)
 
-- **Ziwen Ke**, Jing Cheng, Leslie Ying, Hairong Zheng, Yanjie Zhu, Dong Liang. An Unsupervised Deep Learning Method for Multi-coil Cine MRI. *Physics in Medicine and Biology*, accept, 2020. [Link](https://iopscience.iop.org/article/10.1088/1361-6560/abaffa)
+- **Ziwen Ke**, Jing Cheng, Leslie Ying, Hairong Zheng, Yanjie Zhu, Dong Liang. An Unsupervised Deep Learning Method for Multi-coil Cine MRI. *Physics in Medicine and Biology*, vol. 65, Num. 23, 2020. [Link](https://iopscience.iop.org/article/10.1088/1361-6560/abaffa)
 
 - **Ziwen Ke**, Yanjie Zhu, Dong Liang. CRDN: Cascaded Residual Dense Networks for Dynamic MR Imaging with Edge-enhanced Loss Constraint. *Investigative Magnetic Resonance Imaging*, accept, 2020.
 
