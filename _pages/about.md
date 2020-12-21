@@ -38,39 +38,39 @@ Ziwen Ke is a PhD student in pattern recognition and intelligent system at the S
 
 5. Shanshan Wang, **Ziwen Ke**, Huitao Cheng, Leslie Ying, Xin liu, Hairong Zheng, Dong Liang. Edge-enhanced Loss Constraint for Deep Learning Based Dynamic MR Imaging. *Proc. 27th Annual Meeting of ISMRM*, Montreal, QC, Canada, 2019.: 2019 ,4712 ,1 
 
-6. Shanshan Wang, **Ziwen Ke**, Huitao Cheng, Leslie Ying, Xin liu, Hairong Zheng, Dong Liang. Investigation of convolutional neural network based deep learning for cardiac imaging. *Proc. 26th Annual Meeting of ISMRM*, Paris, France: 2019 ,2786 ,1
+6. Shanshan Wang, **Ziwen Ke**, Huitao Cheng, Leslie Ying, Xin liu, Hairong Zheng, Dong Liang. Investigation of convolutional neural network based deep learning for cardiac imaging. *Proc. 26th Annual Meeting of ISMRM*, Paris, France: 2019, 2786 ,1
 
 ## Patents 
-[1]Dong Liang, Yanjie Zhu, **Ziwen Ke**, Zhuo-Xu Cui, Xin Liu, Hairong Zheng. A deep learning method for dynamic magnetic resonance imaging based on manifold Optimization. CN202011509668.0.
+[1] Dong Liang, Yanjie Zhu, **Ziwen Ke**, Zhuo-Xu Cui, Xin Liu, Hairong Zheng. A deep learning method for dynamic magnetic resonance imaging based on manifold Optimization. CN202011509668.0.
 
-[2]Dong Liang, Yanjie Zhu, **Ziwen Ke**, Zhuo-Xu Cui, Xin Liu, Hairong Zheng. A deep learning method for dynamic magnetic resonance imaging based on manifold Optimization. 
+[2] Dong Liang, Yanjie Zhu, **Ziwen Ke**, Zhuo-Xu Cui, Xin Liu, Hairong Zheng. A deep learning method for dynamic magnetic resonance imaging based on manifold Optimization. 
 PCT/CN2020/137655.
 
-[3]Yanjie Zhu, Dong Liang, **Ziwen Ke**, Xin Liu, Hairong Zheng. Dynamic medical imaging methods, devices, devices and storage media. PCT/CN2020/117306.
+[3] Yanjie Zhu, Dong Liang, **Ziwen Ke**, Xin Liu, Hairong Zheng. Dynamic medical imaging methods, devices, devices and storage media. PCT/CN2020/117306.
 
-[4]Dong Liang, Yanjie Zhu, **Ziwen Ke**, Xin Liu, Hairong Zheng. Magnetic resonance film imaging methods, devices, imaging equipment and storage media. PCT/CN2020/117462.
+[4] Dong Liang, Yanjie Zhu, **Ziwen Ke**, Xin Liu, Hairong Zheng. Magnetic resonance film imaging methods, devices, imaging equipment and storage media. PCT/CN2020/117462.
 
-[5]Yanjie Zhu, Dong Liang, **Ziwen Ke**, Xin Liu, Hairong Zheng. A dynamic medical imaging method, a device, a device and a storage medium. CN202010777250.1.
+[5] Yanjie Zhu, Dong Liang, **Ziwen Ke**, Xin Liu, Hairong Zheng. A dynamic medical imaging method, a device, a device and a storage medium. CN202010777250.1.
 
-[6]Dong Liang, Yanjie Zhu, **Ziwen Ke**, Xin Liu, Hairong Zheng. Dynamic magnetic resonance imaging methods, devices, imaging equipment and storage media. CN202010560886.0
+[6] Dong Liang, Yanjie Zhu, **Ziwen Ke**, Xin Liu, Hairong Zheng. Dynamic magnetic resonance imaging methods, devices, imaging equipment and storage media. CN202010560886.0
 
-[7]Shanshan Wang, Dong Liang, **Ziwen Ke**, Xin Liu, Hairong Zheng. A MR cardiac imaging technique based on cross domain convolutional neural network. PCT/CN2019/124239
+[7] Shanshan Wang, Dong Liang, **Ziwen Ke**, Xin Liu, Hairong Zheng. A MR cardiac imaging technique based on cross domain convolutional neural network. PCT/CN2019/124239
 
-[8]Dong Liang, Shanshan Wang, **Ziwen Ke**, Xin Liu, Hairong Zheng. A MR cardiac imaging technique based on multiple supervised convolutional neural networks. PCT/CN2019/124238
+[8] Dong Liang, Shanshan Wang, **Ziwen Ke**, Xin Liu, Hairong Zheng. A MR cardiac imaging technique based on multiple supervised convolutional neural networks. PCT/CN2019/124238
 
-[9]Dong Liang, Yanjie Zhu, **Ziwen Ke**, Xin Liu, Hairong Zheng. An unsupervised deep learning method based on for parallel MR cardiac imaging. CN201911032337.X.
+[9] Dong Liang, Yanjie Zhu, **Ziwen Ke**, Xin Liu, Hairong Zheng. An unsupervised deep learning method based on for parallel MR cardiac imaging. CN201911032337.X.
 
-[10]Yanjie Zhu, Dong Liang, Lixian Zhu, **Ziwen Ke**, Xin Liu, Hairong Zheng. A feature tracking technique of cardiac magnetic resonance based on deep learning. CN201910857479.3.
+[10] Yanjie Zhu, Dong Liang, Lixian Zhu, **Ziwen Ke**, Xin Liu, Hairong Zheng. A feature tracking technique of cardiac magnetic resonance based on deep learning. CN201910857479.3.
 
-[11]Yanjie Zhu, Dong Liang, **Ziwen Ke**, Xin Liu, Hairong Zheng. MR reconstruction methods, devices, storage media and terminal equipment. CN201910654538.7.
+[11] Yanjie Zhu, Dong Liang, **Ziwen Ke**, Xin Liu, Hairong Zheng. MR reconstruction methods, devices, storage media and terminal equipment. CN201910654538.7.
 
-[12]Dong Liang, Yanjie Zhu, **Ziwen Ke**, Xin Liu, Hairong Zheng. A radial golden Angle MR cardiac cine imaging method, apparatus and apparatus. CN201910625835.9.
+[12] Dong Liang, Yanjie Zhu, **Ziwen Ke**, Xin Liu, Hairong Zheng. A radial golden Angle MR cardiac cine imaging method, apparatus and apparatus. CN201910625835.9.
 
-[13]Yanjie Zhu, Dong Liang, **Ziwen Ke**, Xin Liu, Hairong Zheng. A parallel MR cardiac imaging technique based on deep learning.CN201910446983.4.
+[13] Yanjie Zhu, Dong Liang, **Ziwen Ke**, Xin Liu, Hairong Zheng. A parallel MR cardiac imaging technique based on deep learning.CN201910446983.4.
+ 
+[14] Shanshan Wang, Dong Liang, **Ziwen Ke**, Xin Liu, Hairong Zheng. A MR cardiac imaging technique based on cross domain convolutional neural network. CN201811611862.2
 
-[14]Shanshan Wang, Dong Liang, **Ziwen Ke**, Xin Liu, Hairong Zheng. A MR cardiac imaging technique based on cross domain convolutional neural network. CN201811611862.2
-
-[15]Dong Liang, Shanshan Wang, **Ziwen Ke**, Xin Liu, Hairong Zheng. A MR cardiac imaging technique based on multiple supervised convolutional neural networks. CN201811654047.4.
+[15] Dong Liang, Shanshan Wang, **Ziwen Ke**, Xin Liu, Hairong Zheng. A MR cardiac imaging technique based on multiple supervised convolutional neural networks. CN201811654047.4.
 
 1. Yanjie Zhu, Dong Liang, **Ziwen Ke**, Xin Liu, Hairong Zheng. A dynamic medical imaging method, a device, a device and a storage medium. CN202010777250.1.
 
