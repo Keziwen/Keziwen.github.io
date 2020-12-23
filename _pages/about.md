@@ -72,6 +72,10 @@ PCT/CN2020/137655.
 
 [15] Dong Liang, Shanshan Wang, **Ziwen Ke**, Xin Liu, Hairong Zheng. A MR cardiac imaging technique based on multiple supervised convolutional neural networks. CN201811654047.4.
 
+[16] Dong Liang, Qingyong Zhu, Zhuoxu Cui, **Ziwen Ke**, Zhilang Qiu, Xin Liu, Hairong Zheng. Image reconstruction methods and devices, electronic equipment and machine-readable storage media. PCT/CN2020/136550.
+
+[17] Dong Liang, Qingyong Zhu, Zhuoxu Cui, **Ziwen Ke**, Zhilang Qiu, Xin Liu, Hairong Zheng. Image reconstruction methods and devices, electronic equipment and machine-readable storage media. CN202011440541.8.
+
 ## Honors/Awards
 1. The "First Prize" in the challenge of *Acceleration of MR Imaging*, 2020, The 4th International Symposium on Image Computing and Digital Medicine (ISICDM).
 
