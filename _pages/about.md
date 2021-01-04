@@ -12,11 +12,11 @@ Ziwen Ke is a Ph.D. student in pattern recognition and intelligent system at the
 
 ## Publications
 ### Journal papers
-[1] Huangxuan Zhao#, **Ziwen Ke**#, Ke Li, Ningbo Chen, Liang Song, Chuansheng Zheng, Dong Liang, and Chengbo Liu. Deep learning enables superior photoacoustic imaging at ultra-low laser dosages. Advanced Science, DOI: 10.1002/advs.202003097, accept, 2020. (#co-first author) [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202003097)
+[1] Huangxuan Zhao#, **Ziwen Ke**#, Ke Li, Ningbo Chen, Liang Song, Chuansheng Zheng, Dong Liang, and Chengbo Liu. Deep learning enables superior photoacoustic imaging at ultra-low laser dosages. Advanced Science, DOI: 10.1002/advs.202003097, accepted, 2020. (#co-first author) [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202003097)
 
 [2] **Ziwen Ke**, Jing Cheng, Leslie Ying, Hairong Zheng, Yanjie Zhu, Dong Liang. An Unsupervised Deep Learning Method for Multi-coil Cine MRI. Physics in Medicine and Biology, 65(23), 235041, 2020. [Link](https://iopscience.iop.org/article/10.1088/1361-6560/abaffa)
 
-[3] **Ziwen Ke**, Yanjie Zhu, Dong Liang. CRDN: Cascaded Residual Dense Networks for Dynamic MR Imaging with Edge-enhanced Loss Constraint. Investigative Magnetic Resonance Imaging, accept, 2020.
+[3] **Ziwen Ke**, Yanjie Zhu, Dong Liang. CRDN: Cascaded Residual Dense Networks for Dynamic MR Imaging with Edge-enhanced Loss Constraint. Investigative Magnetic Resonance Imaging, accepted, 2020.
 
 [4] Shanshan Wang#, **Ziwen Ke**#, Huitao Cheng, Sen Jia, Leslie Ying, Hairong Zheng, Dong Liang. DIMENSION: Dynamic MR Imaging with Both K-space and Spatial Prior Knowledge Obtained via Multi-Supervised Network Training. NMR in Biomedicine: 2019, DOI: 10.1002/nbm.4131  (#co-first author) [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/nbm.4131) 
 
@@ -31,7 +31,6 @@ Ziwen Ke is a Ph.D. student in pattern recognition and intelligent system at the
 [9] Wenqi Huang, **Ziwen Ke**, Zhuo-Xu Cui, Jing Cheng, Zhilang Qiu, Sen Jia, Yanjie Zhu, Dong Liang, Deep Low-rank plus Sparse Network for Dynamic MR Imaging.  Medical Image Analysis, under review, 2020.
 
 
-
 ### Conference papers
 [1] **Ziwen Ke**, Yanjie Zhu, Jing Cheng, Leslie Ying, Xin Liu, Hairong Zheng, and Dong Liang. An Unsupervised Deep Learning Method for Parallel MR Cardiac Imaging via Time-Interleaved Sampling. Proc. 28th Annual Meeting of ISMRM, Paris, France, 2020, No.1000. **Oral**
 
@@ -44,7 +43,6 @@ Ziwen Ke is a Ph.D. student in pattern recognition and intelligent system at the
 [5] Shanshan Wang, **Ziwen Ke**, Huitao Cheng, Leslie Ying, Xin liu, Hairong Zheng, Dong Liang. Edge-enhanced Loss Constraint for Deep Learning Based Dynamic MR Imaging. Proc. 27th Annual Meeting of ISMRM, Montreal, QC, Canada, 2019.: 2019 ,4712 ,1 
 
 [6] Shanshan Wang, **Ziwen Ke**, Huitao Cheng, Leslie Ying, Xin Liu, Hairong Zheng, Dong Liang. Investigation of convolutional neural network based deep learning for cardiac imaging. Proc. 26th Annual Meeting of ISMRM, Paris, France: 2019 ,2786 ,1
-
 
 ## Patents 
 [1] Dong Liang, Yanjie Zhu, **Ziwen Ke**, Zhuo-Xu Cui, Xin Liu, Hairong Zheng. A deep learning method for dynamic magnetic resonance imaging based on manifold Optimization. CN202011509668.0.
