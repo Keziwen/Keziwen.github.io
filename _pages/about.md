@@ -28,7 +28,7 @@ Ziwen Ke is a Ph.D. student in pattern recognition and intelligent system at the
 
 [8] **Ziwen Ke**#, Wenqi Huang#, Jing Cheng, Zhuo-Xu Cui, Sen Jia, Haifeng Wang, Xin Liu, Hairong Zheng, Leslie Ying, Yanjie Zhu and Dong Liang. Deep Low-rank Priors in Dynamic MR Imaging. IEEE Transactions on Medical Imaging, under review, 2020.
 
-[9] Wenqi Huang, **Ziwen Ke**, Zhuo-Xu Cui, Jing Cheng, Zhilang Qiu, Sen Jia, Yanjie Zhu, Dong Liang, Deep Low-rank plus Sparse Network for Dynamic MR Imaging.  Medical Image Analysis, under review, 2020.
+[9] Wenqi Huang#, **Ziwen Ke**#, Zhuo-Xu Cui, Jing Cheng, Zhilang Qiu, Sen Jia, Yanjie Zhu, Dong Liang, Deep Low-rank plus Sparse Network for Dynamic MR Imaging.  Medical Image Analysis, under review, 2020. (#co-first author)
 
 
 ### Conference papers
