@@ -36,13 +36,13 @@ Ziwen Ke is a Ph.D. student in pattern recognition and intelligent system at the
 
 [2] **Ziwen Ke**, Yanjie Zhu, Jing Cheng, Leslie Ying, Xin Liu, Hairong Zheng, and Dong Liang. Assessment of the Generalization of Learned Unsupervised Deep Learning Method. Proc. 28th Annual Meeting of ISMRM, Paris, France, 2020, No.3630.
 
-[3] **Ziwen Ke**, Shanshan Wang, Cheng Li, Huitao Cheng, Leslie Ying, Xin liu, Hairong Zheng, Dong Liang. A Cascaded Residual Dense Network for Cardiac MR Imaging. Proc. 27th Annual Meeting of ISMRM, Montreal, QC, Canada, 2019.: 2019 ,4666 ,1
+[3] **Ziwen Ke**, Shanshan Wang, Cheng Li, Huitao Cheng, Leslie Ying, Xin liu, Hairong Zheng, Dong Liang. A Cascaded Residual Dense Network for Cardiac MR Imaging. Proc. 27th Annual Meeting of ISMRM, Montreal, QC, Canada, 2019, No.4666.
 
-[4] **Ziwen Ke**, Shanshan Wang, Huitao Cheng, Leslie Ying, Xin liu, Hairong Zheng, Dong Liang. Multi-supervised Learning in Cross-domain Networks for Cardiac Imaging. Proc. 27th Annual Meeting of ISMRM, Montreal, QC, Canada, 2019.: 2019 ,4701 ,1
+[4] **Ziwen Ke**, Shanshan Wang, Huitao Cheng, Leslie Ying, Xin liu, Hairong Zheng, Dong Liang. Multi-supervised Learning in Cross-domain Networks for Cardiac Imaging. Proc. 27th Annual Meeting of ISMRM, Montreal, QC, Canada, 2019, No.4701.
 
-[5] Shanshan Wang, **Ziwen Ke**, Huitao Cheng, Leslie Ying, Xin liu, Hairong Zheng, Dong Liang. Edge-enhanced Loss Constraint for Deep Learning Based Dynamic MR Imaging. Proc. 27th Annual Meeting of ISMRM, Montreal, QC, Canada, 2019.: 2019 ,4712 ,1 
+[5] Shanshan Wang, **Ziwen Ke**, Huitao Cheng, Leslie Ying, Xin liu, Hairong Zheng, Dong Liang. Edge-enhanced Loss Constraint for Deep Learning Based Dynamic MR Imaging. Proc. 27th Annual Meeting of ISMRM, Montreal, QC, Canada, 2019, No.4712.
 
-[6] Shanshan Wang, **Ziwen Ke**, Huitao Cheng, Leslie Ying, Xin Liu, Hairong Zheng, Dong Liang. Investigation of convolutional neural network based deep learning for cardiac imaging. Proc. 26th Annual Meeting of ISMRM, Paris, France: 2019 ,2786 ,1
+[6] Shanshan Wang, **Ziwen Ke**, Huitao Cheng, Leslie Ying, Xin Liu, Hairong Zheng, Dong Liang. Investigation of convolutional neural network based deep learning for cardiac imaging. Proc. 26th Annual Meeting of ISMRM, Paris, France, 2019, No.2786.
 
 ## Patents 
 [1] Dong Liang, Yanjie Zhu, **Ziwen Ke**, Zhuo-Xu Cui, Xin Liu, Hairong Zheng. A deep learning method for dynamic magnetic resonance imaging based on manifold Optimization. CN202011509668.0.
