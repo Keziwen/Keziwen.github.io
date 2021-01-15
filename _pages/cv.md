@@ -128,12 +128,14 @@ Honors/Awards
 
 6. "Certificate of Reviewing", 2019, The Editors of Biomedical Signal Processing and Control.
 
-7. "First Prize in Youth Thesis Competition", 2018, Chinese Biomedical Engineering Joint Academic Annual Meeting.
+7. "Educational Stipend", 2019&2020, International Society for Magnetic Resonance in Medicine (ISMRM).
 
-8. "School Merit Student", 2017, University of Chinese Academy of Sciences.
+8. "First Prize in Youth Thesis Competition", 2018, Chinese Biomedical Engineering Joint Academic Annual Meeting.
 
-9. "Outstanding Graduate", 2016, Southern Medical University.
+9. "School Merit Student", 2017, University of Chinese Academy of Sciences.
 
-10. "National Scholarship" (Undergraduate), 2014, The Ministry of National Education.
+10. "Outstanding Graduate", 2016, Southern Medical University.
+
+11. "National Scholarship" (Undergraduate), 2014, The Ministry of National Education.
   
 
