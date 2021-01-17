@@ -15,7 +15,7 @@ redirect_from:
 
 [2] **Ziwen Ke**, Jing Cheng, Leslie Ying, Hairong Zheng, Yanjie Zhu, Dong Liang. An Unsupervised Deep Learning Method for Multi-coil Cine MRI. Physics in Medicine and Biology, 65(23), 235041, 2020. [Link](https://iopscience.iop.org/article/10.1088/1361-6560/abaffa)
 
-[3] **Ziwen Ke**, Yanjie Zhu, Dong Liang. CRDN: Cascaded Residual Dense Networks for Dynamic MR Imaging with Edge-enhanced Loss Constraint. Investigative Magnetic Resonance Imaging, accepted, 2020.
+[3] **Ziwen Ke**, Yanjie Zhu, Dong Liang. Cascaded Residual Dense Networks for Dynamic MR Imaging with Edge-enhanced Loss Constraint. Investigative Magnetic Resonance Imaging, 24(4): 214-222, 2020. [Link](https://www.koreamed.org/SearchBasic.php?RID=2510451)
 
 [4] Shanshan Wang#, **Ziwen Ke**#, Huitao Cheng, Sen Jia, Leslie Ying, Hairong Zheng, Dong Liang. DIMENSION: Dynamic MR Imaging with Both K-space and Spatial Prior Knowledge Obtained via Multi-Supervised Network Training. NMR in Biomedicine: 2019, DOI: 10.1002/nbm.4131  (#co-first author) [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/nbm.4131) 
 
