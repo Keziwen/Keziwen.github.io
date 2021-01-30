@@ -116,26 +116,28 @@ PCT/CN2020/137655.
   
 Honors/Awards
 ======
-1. The "First Prize" in the challenge of *Acceleration of MR Imaging*, 2020, The 4th International Symposium on Image Computing and Digital Medicine (ISICDM).
+1. "Dean's Scholarship - Special Award", 2021, Shenzhen Institutes of Advanced Technology，Chinese Academy of Sciences.
 
-2. "National Scholarship" (PhD), 2020, The Ministry of National Education.
+2. The "First Prize" in the challenge of *Acceleration of MR Imaging*, 2020, The 4th International Symposium on Image Computing and Digital Medicine (ISICDM).
 
-3. "Model Student of Merit", 2020, University of Chinese Academy of Sciences.
+3. "National Scholarship" (PhD), 2020, The Ministry of National Education.
 
-4. "Excellent Party Member", 2020, Shenzhen Institutes of Advanced Technology，Chinese Academy of Sciences.
+4. "Model Student of Merit", 2020, University of Chinese Academy of Sciences.
 
-5. "Dean's Scholarship - Excellence Award", 2020, Shenzhen Institutes of Advanced Technology，Chinese Academy of Sciences.
+5. "Excellent Party Member", 2020, Shenzhen Institutes of Advanced Technology，Chinese Academy of Sciences.
 
-6. "Certificate of Reviewing", 2019, The Editors of Biomedical Signal Processing and Control.
+6. "Dean's Scholarship - Excellence Award", 2020, Shenzhen Institutes of Advanced Technology，Chinese Academy of Sciences.
 
-7. "Educational Stipend", 2019&2020, International Society for Magnetic Resonance in Medicine (ISMRM).
+7. "Certificate of Reviewing", 2019, The Editors of Biomedical Signal Processing and Control.
 
-8. "First Prize in Youth Thesis Competition", 2018, Chinese Biomedical Engineering Joint Academic Annual Meeting.
+8. "Educational Stipend", 2019&2020, International Society for Magnetic Resonance in Medicine (ISMRM).
 
-9. "School Merit Student", 2017, University of Chinese Academy of Sciences.
+9. "First Prize in Youth Thesis Competition", 2018, Chinese Biomedical Engineering Joint Academic Annual Meeting.
 
-10. "Outstanding Graduate", 2016, Southern Medical University.
+10. "School Merit Student", 2017, University of Chinese Academy of Sciences.
 
-11. "National Scholarship" (Undergraduate), 2014, The Ministry of National Education.
+11. "Outstanding Graduate", 2016, Southern Medical University.
+
+12. "National Scholarship" (Undergraduate), 2014, The Ministry of National Education.
   
 
