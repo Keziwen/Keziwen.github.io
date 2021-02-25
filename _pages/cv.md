@@ -52,17 +52,21 @@ Publications
 
 
 ### Conference papers
-[1] **Ziwen Ke**, Yanjie Zhu, Jing Cheng, Leslie Ying, Xin Liu, Hairong Zheng, and Dong Liang. An Unsupervised Deep Learning Method for Parallel MR Cardiac Imaging via Time-Interleaved Sampling. Proc. 28th Annual Meeting of ISMRM, Paris, France, 2020, No.1000. **Oral**
+[1] **Ziwen Ke**, Zhuo-Xu Cui, Jing Cheng, Leslie Ying, Xin Liu, Hairong Zheng, Yanjie Zhu, Dong Liang. Deep Manifold Learning for Dynamic MR Imaging. Proc. 29th Annual Meeting of ISMRM, Online, 2021, No.1820.
 
-[2] **Ziwen Ke**, Yanjie Zhu, Jing Cheng, Leslie Ying, Xin Liu, Hairong Zheng, and Dong Liang. Assessment of the Generalization of Learned Unsupervised Deep Learning Method. Proc. 28th Annual Meeting of ISMRM, Paris, France, 2020, No.3630.
+[2] **Ziwen Ke**, Wenqi Huang, Leslie Ying, Xin Liu, Hairong Zheng, Yanjie Zhu, Dong Liang. A Plug-and-play Low-rank Network Module in Dynamic MR Imaging. Proc. 29th Annual Meeting of ISMRM, Online, 2021, No.2784.
 
-[3] **Ziwen Ke**, Shanshan Wang, Cheng Li, Huitao Cheng, Leslie Ying, Xin liu, Hairong Zheng, Dong Liang. A Cascaded Residual Dense Network for Cardiac MR Imaging. Proc. 27th Annual Meeting of ISMRM, Montreal, QC, Canada, 2019, No.4666.
+[3] **Ziwen Ke**, Yanjie Zhu, Jing Cheng, Leslie Ying, Xin Liu, Hairong Zheng, and Dong Liang. An Unsupervised Deep Learning Method for Parallel MR Cardiac Imaging via Time-Interleaved Sampling. Proc. 28th Annual Meeting of ISMRM, Paris, France, 2020, No.1000. **Oral**
 
-[4] **Ziwen Ke**, Shanshan Wang, Huitao Cheng, Leslie Ying, Xin liu, Hairong Zheng, Dong Liang. Multi-supervised Learning in Cross-domain Networks for Cardiac Imaging. Proc. 27th Annual Meeting of ISMRM, Montreal, QC, Canada, 2019, No.4701.
+[4] **Ziwen Ke**, Yanjie Zhu, Jing Cheng, Leslie Ying, Xin Liu, Hairong Zheng, and Dong Liang. Assessment of the Generalization of Learned Unsupervised Deep Learning Method. Proc. 28th Annual Meeting of ISMRM, Paris, France, 2020, No.3630.
 
-[5] Shanshan Wang, **Ziwen Ke**, Huitao Cheng, Leslie Ying, Xin liu, Hairong Zheng, Dong Liang. Edge-enhanced Loss Constraint for Deep Learning Based Dynamic MR Imaging. Proc. 27th Annual Meeting of ISMRM, Montreal, QC, Canada, 2019, No.4712.
+[5] **Ziwen Ke**, Shanshan Wang, Cheng Li, Huitao Cheng, Leslie Ying, Xin liu, Hairong Zheng, Dong Liang. A Cascaded Residual Dense Network for Cardiac MR Imaging. Proc. 27th Annual Meeting of ISMRM, Montreal, QC, Canada, 2019, No.4666.
 
-[6] Shanshan Wang, **Ziwen Ke**, Huitao Cheng, Leslie Ying, Xin Liu, Hairong Zheng, Dong Liang. Investigation of convolutional neural network based deep learning for cardiac imaging. Proc. 26th Annual Meeting of ISMRM, Paris, France, 2019, No.2786.
+[6] **Ziwen Ke**, Shanshan Wang, Huitao Cheng, Leslie Ying, Xin liu, Hairong Zheng, Dong Liang. Multi-supervised Learning in Cross-domain Networks for Cardiac Imaging. Proc. 27th Annual Meeting of ISMRM, Montreal, QC, Canada, 2019, No.4701.
+
+[7] Shanshan Wang, **Ziwen Ke**, Huitao Cheng, Leslie Ying, Xin liu, Hairong Zheng, Dong Liang. Edge-enhanced Loss Constraint for Deep Learning Based Dynamic MR Imaging. Proc. 27th Annual Meeting of ISMRM, Montreal, QC, Canada, 2019, No.4712.
+
+[8] Shanshan Wang, **Ziwen Ke**, Huitao Cheng, Leslie Ying, Xin Liu, Hairong Zheng, Dong Liang. Investigation of convolutional neural network based deep learning for cardiac imaging. Proc. 26th Annual Meeting of ISMRM, Paris, France, 2019, No.2786.
 
 ## Patents 
 [1] Dong Liang, Yanjie Zhu, **Ziwen Ke**, Zhuo-Xu Cui, Xin Liu, Hairong Zheng. A deep learning method for dynamic magnetic resonance imaging based on manifold Optimization. CN202011509668.0.
