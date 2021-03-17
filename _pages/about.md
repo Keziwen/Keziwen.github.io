@@ -109,6 +109,8 @@ PCT/CN2020/137655.
 
 12. "National Scholarship" (Undergraduate), 2014, The Ministry of National Education.
 
+13. "National scholarship for Encouragement"(Undergraduate), 2013, The Ministry of National Education.
+
 
 ## Contact
 - Email: zw.ke@siat.ac.cn
