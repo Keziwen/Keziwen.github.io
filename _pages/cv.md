@@ -129,5 +129,7 @@ Honors/Awards
 11. "Outstanding Graduate", 2016, Southern Medical University.
 
 12. "National Scholarship" (Undergraduate), 2014, The Ministry of National Education.
+
+13. "National scholarship for Encouragement" (Undergraduate), 2013, The Ministry of National Education.
   
 
