@@ -12,23 +12,24 @@ Ziwen Ke is a Ph.D. student in pattern recognition and intelligent system at the
 
 ## Publications
 ### Journal papers
-[9] Huangxuan Zhao#, **Ziwen Ke**#, Ke Li, Ningbo Chen, Liang Song, Chuansheng Zheng, Dong Liang, and Chengbo Liu. Deep learning enables superior photoacoustic imaging at ultra-low laser dosages. Advanced Science, DOI: 10.1002/advs.202003097, accepted, 2020. (#co-first author) [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202003097)
 
-[8] **Ziwen Ke**, Jing Cheng, Leslie Ying, Hairong Zheng, Yanjie Zhu, Dong Liang. An Unsupervised Deep Learning Method for Multi-coil Cine MRI. Physics in Medicine and Biology, 65(23), 235041, 2020. [Link](https://iopscience.iop.org/article/10.1088/1361-6560/abaffa)
+[9] **Ziwen Ke**#, Wenqi Huang#, Jing Cheng, Zhuo-Xu Cui, Sen Jia, Haifeng Wang, Xin Liu, Hairong Zheng, Leslie Ying, Yanjie Zhu and Dong Liang. Deep Low-rank Priors in Dynamic MR Imaging. IEEE Transactions on Medical Imaging, accepted, 2021.
 
-[7] **Ziwen Ke**, Yanjie Zhu, Dong Liang. Cascaded Residual Dense Networks for Dynamic MR Imaging with Edge-enhanced Loss Constraint. Investigative Magnetic Resonance Imaging, 24(4): 214-222, 2020. [Link](https://www.koreamed.org/SearchBasic.php?RID=2510451)
+[8] Wenqi Huang#, **Ziwen Ke**#, Zhuo-Xu Cui, Jing Cheng, Zhilang Qiu, Sen Jia, Yanjie Zhu, Dong Liang, Deep Low-rank plus Sparse Network for Dynamic MR Imaging.  Medical Image Analysis, under review, 2020. (#co-first author)
 
-[6] Shanshan Wang#, **Ziwen Ke**#, Huitao Cheng, Sen Jia, Leslie Ying, Hairong Zheng, Dong Liang. DIMENSION: Dynamic MR Imaging with Both K-space and Spatial Prior Knowledge Obtained via Multi-Supervised Network Training. NMR in Biomedicine, DOI: 10.1002/nbm.4131, 2019.  (#co-first author) [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/nbm.4131) 
+[7] Huangxuan Zhao#, **Ziwen Ke**#, Ke Li, Ningbo Chen, Liang Song, Chuansheng Zheng, Dong Liang, and Chengbo Liu. Deep learning enables superior photoacoustic imaging at ultra-low laser dosages. Advanced Science, DOI: 10.1002/advs.202003097, accepted, 2020. (#co-first author) [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202003097)
 
-[5] Huangxuan Zhao#, **Ziwen Ke**#, Ningbo Chen, Ke Li, Lidai Wang, Xiaojing Gong, Wei Zheng, Liang Song, Zhicheng Liu, Dong Liang, Chengbo Liu. A new deep learning method for image deblurring in optical microscopic systems. Journal of Biophotonics, DOI: 10.1002/jbio.201960147, 2019. (#co-first author) [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/jbio.201960147)
+[6] **Ziwen Ke**, Jing Cheng, Leslie Ying, Hairong Zheng, Yanjie Zhu, Dong Liang. An Unsupervised Deep Learning Method for Multi-coil Cine MRI. Physics in Medicine and Biology, 65(23), 235041, 2020. [Link](https://iopscience.iop.org/article/10.1088/1361-6560/abaffa)
 
-[4] Dong Liang, Jing Cheng, **Ziwen Ke**, Leslie Ying. Deep MRI Reconstruction: Inverse Problems Meet Neural Networks, IEEE Signal Processing Magazine, DOI:10.1109/MSP.2019.2950557, 2019. [Link](https://ieeexplore.ieee.org/abstract/document/8962949)
+[5] **Ziwen Ke**, Yanjie Zhu, Dong Liang. Cascaded Residual Dense Networks for Dynamic MR Imaging with Edge-enhanced Loss Constraint. Investigative Magnetic Resonance Imaging, 24(4): 214-222, 2020. [Link](https://www.koreamed.org/SearchBasic.php?RID=2510451)
 
-[3] Shanshan Wang, Huitao Cheng, Leslie Ying, Taohui Xiao, **Ziwen Ke**, Hairong Zheng and Dong Liang, DeepcomplexMRI: Exploiting deep residual network for fast parallel MR imaging with complex convolution. Magnetic Resonance Imaging, 68, 136-147, 2020. [Link](https://www.sciencedirect.com/science/article/pii/S0730725X19305338) 
+[4] Shanshan Wang#, **Ziwen Ke**#, Huitao Cheng, Sen Jia, Leslie Ying, Hairong Zheng, Dong Liang. DIMENSION: Dynamic MR Imaging with Both K-space and Spatial Prior Knowledge Obtained via Multi-Supervised Network Training. NMR in Biomedicine, DOI: 10.1002/nbm.4131, 2019.  (#co-first author) [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/nbm.4131) 
 
-[2] **Ziwen Ke**#, Wenqi Huang#, Jing Cheng, Zhuo-Xu Cui, Sen Jia, Haifeng Wang, Xin Liu, Hairong Zheng, Leslie Ying, Yanjie Zhu and Dong Liang. Deep Low-rank Priors in Dynamic MR Imaging. IEEE Transactions on Medical Imaging, under review, 2020.
+[3] Huangxuan Zhao#, **Ziwen Ke**#, Ningbo Chen, Ke Li, Lidai Wang, Xiaojing Gong, Wei Zheng, Liang Song, Zhicheng Liu, Dong Liang, Chengbo Liu. A new deep learning method for image deblurring in optical microscopic systems. Journal of Biophotonics, DOI: 10.1002/jbio.201960147, 2019. (#co-first author) [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/jbio.201960147)
 
-[1] Wenqi Huang#, **Ziwen Ke**#, Zhuo-Xu Cui, Jing Cheng, Zhilang Qiu, Sen Jia, Yanjie Zhu, Dong Liang, Deep Low-rank plus Sparse Network for Dynamic MR Imaging.  Medical Image Analysis, under review, 2020. (#co-first author)
+[2] Dong Liang, Jing Cheng, **Ziwen Ke**, Leslie Ying. Deep MRI Reconstruction: Inverse Problems Meet Neural Networks, IEEE Signal Processing Magazine, DOI:10.1109/MSP.2019.2950557, 2019. [Link](https://ieeexplore.ieee.org/abstract/document/8962949)
+
+[1] Shanshan Wang, Huitao Cheng, Leslie Ying, Taohui Xiao, **Ziwen Ke**, Hairong Zheng and Dong Liang, DeepcomplexMRI: Exploiting deep residual network for fast parallel MR imaging with complex convolution. Magnetic Resonance Imaging, 68, 136-147, 2020. [Link](https://www.sciencedirect.com/science/article/pii/S0730725X19305338) 
 
 
 ### Conference papers
