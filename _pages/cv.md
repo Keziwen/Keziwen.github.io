@@ -11,12 +11,12 @@ redirect_from:
 
 Education
 ======
-* B.S. in Biomedical Engineering, Southern Medical University, 2016 
-* Ph.D in Pattern Recognition and Intelligent System, University of Chinese Academy of Sciences, 2021 (expected)
+* B.S. in Biomedical Engineering, Southern Medical University, 2016. 
+* Ph.D in Pattern Recognition and Intelligent System, University of Chinese Academy of Sciences, 2021.
 
 Work experience
 ======
-* None
+* Postdoctoral Fellow, Shanghai Jiao Tong University, 2021 - 2023 (expected).
   
 Skills
 ======
@@ -36,7 +36,7 @@ Publications
 
 [9] **Ziwen Ke**#, Zhuo-Xu Cui#, Wenqi Huang, Sen Jia, Jing Cheng, Haifeng Wang, Xin Liu, Hairong Zheng, Leslie Ying, Yanjie Zhu, and Dong Liang. Deep Manifold Learning for Dynamic MR Imaging. Submitted to IEEE Transactions on Computational Imaging, 2021.
 
-[8] Wenqi Huang#, **Ziwen Ke**#, Zhuo-Xu Cui, Jing Cheng, Zhilang Qiu, Sen Jia, Yanjie Zhu, and Dong Liang. Deep Low-rank plus Sparse Network for Dynamic MR Imaging.  Medical Image Analysis, under review, 2020. (#co-first author)
+[8] Wenqi Huang#, **Ziwen Ke**#, Zhuo-Xu Cui, Jing Cheng, Zhilang Qiu, Sen Jia, Yanjie Zhu, and Dong Liang. Deep Low-rank plus Sparse Network for Dynamic MR Imaging.  Medical Image Analysis, acceptd, 2020. (#co-first author)
 
 [7] Huangxuan Zhao#, **Ziwen Ke**#, Ke Li, Ningbo Chen, Liang Song, Chuansheng Zheng, Dong Liang, and Chengbo Liu. Deep learning enables superior photoacoustic imaging at ultra-low laser dosages. Advanced Science, DOI: 10.1002/advs.202003097, accepted, 2020. (#co-first author) [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202003097)
 
@@ -111,7 +111,9 @@ PCT/CN2020/137655.
   
 Honors/Awards
 ======
-13. "Dean's Scholarship - Special Award", 2021, Shenzhen Institutes of Advanced Technology，Chinese Academy of Sciences.
+14. "Dean's Scholarship - Special Award", 2021, Chinese Academy of Sciences.
+
+13. "Dean's Scholarship - Special Award", 2021, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences.
 
 12. The "First Prize" in the challenge of *Acceleration of MR Imaging*, 2020, The 4th International Symposium on Image Computing and Digital Medicine (ISICDM).
 
