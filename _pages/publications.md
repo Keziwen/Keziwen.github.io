@@ -11,11 +11,15 @@ redirect_from:
 {% include base_path %}
 
 ### Journal papers
+
+[11] Jing Cheng, Wenqi Huang, Zhuo-Xu Cui, **Ziwen Ke**, Leslie Ying, Haifeng Wang, Yanjie Zhu, and Dong Liang. Learning data consistency and its application to
+MR dynamic imaging. IEEE Transactions on Medical Imaging, accepted, 2021.
+
 [10] **Ziwen Ke**#, Wenqi Huang#, Jing Cheng, Zhuo-Xu Cui, Sen Jia, Haifeng Wang, Xin Liu, Hairong Zheng, Leslie Ying, Yanjie Zhu, and Dong Liang. Deep Low-rank Priors in Dynamic MR Imaging. IEEE Transactions on Medical Imaging, accepted, 2021.
 
-[9] **Ziwen Ke**#, Zhuo-Xu Cui#, Wenqi Huang, Sen Jia, Jing Cheng, Haifeng Wang, Xin Liu, Hairong Zheng, Leslie Ying, Yanjie Zhu, and Dong Liang. Deep Manifold Learning for Dynamic MR Imaging. Submitted to IEEE Transactions on Computational Imaging, 2021.
+[9] **Ziwen Ke**#, Zhuo-Xu Cui#, Wenqi Huang, Sen Jia, Jing Cheng, Haifeng Wang, Xin Liu, Hairong Zheng, Leslie Ying, Yanjie Zhu, and Dong Liang. Deep Manifold Learning for Dynamic MR Imaging. IEEE Transactions on Computational Imaging, under review, 2021.
 
-[8] Wenqi Huang#, **Ziwen Ke**#, Zhuo-Xu Cui, Jing Cheng, Zhilang Qiu, Sen Jia, Yanjie Zhu, and Dong Liang. Deep Low-rank plus Sparse Network for Dynamic MR Imaging.  Medical Image Analysis, under review, 2020. (#co-first author)
+[8] Wenqi Huang#, **Ziwen Ke**#, Zhuo-Xu Cui, Jing Cheng, Zhilang Qiu, Sen Jia, Yanjie Zhu, and Dong Liang. Deep Low-rank plus Sparse Network for Dynamic MR Imaging.  Medical Image Analysis, accepted, 2021. (#co-first author)
 
 [7] Huangxuan Zhao#, **Ziwen Ke**#, Ke Li, Ningbo Chen, Liang Song, Chuansheng Zheng, Dong Liang, and Chengbo Liu. Deep learning enables superior photoacoustic imaging at ultra-low laser dosages. Advanced Science, DOI: 10.1002/advs.202003097, accepted, 2020. (#co-first author) [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202003097)
 
@@ -30,6 +34,7 @@ redirect_from:
 [2] Dong Liang, Jing Cheng, **Ziwen Ke**, Leslie Ying. Deep MRI Reconstruction: Inverse Problems Meet Neural Networks, IEEE Signal Processing Magazine, DOI:10.1109/MSP.2019.2950557, 2019. [Link](https://ieeexplore.ieee.org/abstract/document/8962949)
 
 [1] Shanshan Wang, Huitao Cheng, Leslie Ying, Taohui Xiao, **Ziwen Ke**, Hairong Zheng and Dong Liang, DeepcomplexMRI: Exploiting deep residual network for fast parallel MR imaging with complex convolution. Magnetic Resonance Imaging, 68, 136-147, 2020. [Link](https://www.sciencedirect.com/science/article/pii/S0730725X19305338) 
+
 
 ### Conference papers
 [8] **Ziwen Ke**, Zhuo-Xu Cui, Jing Cheng, Leslie Ying, Xin Liu, Hairong Zheng, Yanjie Zhu, Dong Liang. Deep Manifold Learning for Dynamic MR Imaging. Proc. 29th Annual Meeting of ISMRM, Online, 2021, No.1820.
