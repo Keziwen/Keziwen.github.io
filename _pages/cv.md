@@ -59,6 +59,7 @@ MR dynamic imaging. IEEE Transactions on Medical Imaging, accepted, 2021.
 
 
 ### Conference papers
+
 [8] **Ziwen Ke**, Zhuo-Xu Cui, Jing Cheng, Leslie Ying, Xin Liu, Hairong Zheng, Yanjie Zhu, Dong Liang. Deep Manifold Learning for Dynamic MR Imaging. Proc. 29th Annual Meeting of ISMRM, Online, 2021, No.1820.
 
 [7] **Ziwen Ke**, Wenqi Huang, Leslie Ying, Xin Liu, Hairong Zheng, Yanjie Zhu, Dong Liang. A Plug-and-play Low-rank Network Module in Dynamic MR Imaging. Proc. 29th Annual Meeting of ISMRM, Online, 2021, No.2784.
@@ -76,6 +77,7 @@ MR dynamic imaging. IEEE Transactions on Medical Imaging, accepted, 2021.
 [1] Shanshan Wang, **Ziwen Ke**, Huitao Cheng, Leslie Ying, Xin Liu, Hairong Zheng, Dong Liang. Investigation of convolutional neural network based deep learning for cardiac imaging. Proc. 26th Annual Meeting of ISMRM, Paris, France, 2019, No.2786.
 
 ## Patents 
+
 [18] Dong Liang, Yanjie Zhu, Wenqi Huang, **Ziwen Ke**, Zhuo-Xu Cui, Xin Liu, Hairong Zheng. Image reconstruction model generation and image reconstruction method, device, equipment and medium. CN202110287100.7.
 
 [17] Dong Liang, Yanjie Zhu, **Ziwen Ke**, Zhuo-Xu Cui, Xin Liu, Hairong Zheng. A deep learning method for dynamic magnetic resonance imaging based on manifold Optimization. CN202011509668.0.
@@ -116,31 +118,32 @@ PCT/CN2020/137655.
   
 Honors/Awards
 ======
-14. "Dean's Scholarship - Special Award", 2021, Chinese Academy of Sciences.
 
-13. "Dean's Scholarship - Special Award", 2021, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences.
+[14] "Dean's Scholarship - Special Award", 2021, Chinese Academy of Sciences.
 
-12. The "First Prize" in the challenge of *Acceleration of MR Imaging*, 2020, The 4th International Symposium on Image Computing and Digital Medicine (ISICDM).
+[13] "Dean's Scholarship - Special Award", 2021, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences.
 
-11. "National Scholarship" (PhD), 2020, The Ministry of National Education.
+[12] The "First Prize" in the challenge of "Acceleration of MR Imaging", 2020, The 4th International Symposium on Image Computing and Digital Medicine (ISICDM).
 
-10. "Model Student of Merit", 2020, University of Chinese Academy of Sciences.
+[11] "National Scholarship" (PhD), 2020, The Ministry of National Education.
 
-9. "Excellent Party Member", 2020, Shenzhen Institutes of Advanced Technology，Chinese Academy of Sciences.
+[10] "Model Student of Merit", 2020, University of Chinese Academy of Sciences.
 
-8. "Dean's Scholarship - Excellence Award", 2020, Shenzhen Institutes of Advanced Technology，Chinese Academy of Sciences.
+[9] "Excellent Party Member", 2020, Shenzhen Institutes of Advanced Technology，Chinese Academy of Sciences.
 
-7. "Certificate of Reviewing", 2019, The Editors of Biomedical Signal Processing and Control.
+[8] "Dean's Scholarship - Excellence Award", 2020, Shenzhen Institutes of Advanced Technology，Chinese Academy of Sciences.
 
-6. "Educational Stipend", 2019&2020, International Society for Magnetic Resonance in Medicine (ISMRM).
+[7] "Certificate of Reviewing", 2019, The Editors of Biomedical Signal Processing and Control.
 
-5. "First Prize in Youth Thesis Competition", 2018, Chinese Biomedical Engineering Joint Academic Annual Meeting.
+[6] "Educational Stipend", 2019&2020, International Society for Magnetic Resonance in Medicine (ISMRM).
 
-4. "School Merit Student", 2017, University of Chinese Academy of Sciences.
+[5] "First Prize in Youth Thesis Competition", 2018, Chinese Biomedical Engineering Joint Academic Annual Meeting.
 
-3. "Outstanding Graduate", 2016, Southern Medical University.
+[4] "School Merit Student", 2017, University of Chinese Academy of Sciences.
 
-2. "National Scholarship" (Undergraduate), 2014, The Ministry of National Education.
+[3] "Outstanding Graduate", 2016, Southern Medical University.
 
-1. "National scholarship for Encouragement" (Undergraduate), 2013, The Ministry of National Education.
+[2] "National Scholarship" (Undergraduate), 2014, The Ministry of National Education.
+
+[1] "National scholarship for Encouragement" (Undergraduate), 2013, The Ministry of National Education.
 
