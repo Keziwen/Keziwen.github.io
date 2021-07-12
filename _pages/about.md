@@ -93,33 +93,33 @@ PCT/CN2020/137655.
 [1] Dong Liang, Qingyong Zhu, Zhuoxu Cui, **Ziwen Ke**, Zhilang Qiu, Xin Liu, Hairong Zheng. Image reconstruction methods and devices, electronic equipment and machine-readable storage media. CN202011440541.8.
 
 ## Honors/Awards
-14. "Dean's Scholarship - Special Award", 2021, Chinese Academy of Sciences.
+[14] "Dean's Scholarship - Special Award", 2021, Chinese Academy of Sciences.
 
-13. "Dean's Scholarship - Special Award", 2021, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences.
+[13] "Dean's Scholarship - Special Award", 2021, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences.
 
-12. The "First Prize" in the challenge of "Acceleration of MR Imaging", 2020, The 4th International Symposium on Image Computing and Digital Medicine (ISICDM).
+[12] The "First Prize" in the challenge of "Acceleration of MR Imaging", 2020, The 4th International Symposium on Image Computing and Digital Medicine (ISICDM).
 
-11. "National Scholarship" (PhD), 2020, The Ministry of National Education.
+[11] "National Scholarship" (PhD), 2020, The Ministry of National Education.
 
-10. "Model Student of Merit", 2020, University of Chinese Academy of Sciences.
+[10] "Model Student of Merit", 2020, University of Chinese Academy of Sciences.
 
-9. "Excellent Party Member", 2020, Shenzhen Institutes of Advanced Technology，Chinese Academy of Sciences.
+[9] "Excellent Party Member", 2020, Shenzhen Institutes of Advanced Technology，Chinese Academy of Sciences.
 
-8. "Dean's Scholarship - Excellence Award", 2020, Shenzhen Institutes of Advanced Technology，Chinese Academy of Sciences.
+[8] "Dean's Scholarship - Excellence Award", 2020, Shenzhen Institutes of Advanced Technology，Chinese Academy of Sciences.
 
-7. "Certificate of Reviewing", 2019, The Editors of Biomedical Signal Processing and Control.
+[7] "Certificate of Reviewing", 2019, The Editors of Biomedical Signal Processing and Control.
 
-6. "Educational Stipend", 2019&2020, International Society for Magnetic Resonance in Medicine (ISMRM).
+[6] "Educational Stipend", 2019&2020, International Society for Magnetic Resonance in Medicine (ISMRM).
 
-5. "First Prize in Youth Thesis Competition", 2018, Chinese Biomedical Engineering Joint Academic Annual Meeting.
+[5] "First Prize in Youth Thesis Competition", 2018, Chinese Biomedical Engineering Joint Academic Annual Meeting.
 
-4. "School Merit Student", 2017, University of Chinese Academy of Sciences.
+[4] "School Merit Student", 2017, University of Chinese Academy of Sciences.
 
-3. "Outstanding Graduate", 2016, Southern Medical University.
+[3] "Outstanding Graduate", 2016, Southern Medical University.
 
-2. "National Scholarship" (Undergraduate), 2014, The Ministry of National Education.
+[2] "National Scholarship" (Undergraduate), 2014, The Ministry of National Education.
 
-1. "National scholarship for Encouragement" (Undergraduate), 2013, The Ministry of National Education.
+[1] "National scholarship for Encouragement" (Undergraduate), 2013, The Ministry of National Education.
 
 
 ## Contact
