@@ -12,10 +12,10 @@ redirect_from:
 
 ### Journal papers
 
-[11] Jing Cheng, Wenqi Huang, Zhuo-Xu Cui, **Ziwen Ke**, Leslie Ying, Haifeng Wang, Yanjie Zhu, and Dong Liang. Learning data consistency and its application to
-MR dynamic imaging. IEEE Transactions on Medical Imaging, accepted, 2021.
+[11] Jing Cheng, Zhuo-Xu Cui, Wenqi Huang, **Ziwen Ke**, Leslie Ying, Haifeng Wang, Yanjie Zhu, and Dong Liang. Learning data consistency and its application to
+MR dynamic imaging. IEEE Transactions on Medical Imaging, accepted, 2021. [Link](https://ieeexplore.ieee.org/document/9481093)
 
-[10] **Ziwen Ke**#, Wenqi Huang#, Jing Cheng, Zhuo-Xu Cui, Sen Jia, Haifeng Wang, Xin Liu, Hairong Zheng, Leslie Ying, Yanjie Zhu, and Dong Liang. Deep Low-rank Priors in Dynamic MR Imaging. IEEE Transactions on Medical Imaging, accepted, 2021.
+[10] **Ziwen Ke**#, Wenqi Huang#, Jing Cheng, Zhuo-Xu Cui, Sen Jia, Haifeng Wang, Xin Liu, Hairong Zheng, Leslie Ying, Yanjie Zhu, and Dong Liang. Deep Low-rank Priors in Dynamic MR Imaging. IEEE Transactions on Medical Imaging, accepted, 2021. [Link](https://ieeexplore.ieee.org/document/9481108)
 
 [9] **Ziwen Ke**#, Zhuo-Xu Cui#, Wenqi Huang, Sen Jia, Jing Cheng, Haifeng Wang, Xin Liu, Hairong Zheng, Leslie Ying, Yanjie Zhu, and Dong Liang. Deep Manifold Learning for Dynamic MR Imaging. IEEE Transactions on Computational Imaging, under review, 2021.
 
