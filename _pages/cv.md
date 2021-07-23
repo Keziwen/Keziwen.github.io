@@ -34,9 +34,9 @@ Publications
 ### Journal papers
 
 [11] Jing Cheng, Zhuo-Xu Cui, Wenqi Huang, **Ziwen Ke**, Leslie Ying, Haifeng Wang, Yanjie Zhu, and Dong Liang. Learning data consistency and its application to
-MR dynamic imaging. IEEE Transactions on Medical Imaging, accepted, 2021.
+MR dynamic imaging. IEEE Transactions on Medical Imaging, accepted, 2021. [Link](https://ieeexplore.ieee.org/document/9481093)
 
-[10] **Ziwen Ke**#, Wenqi Huang#, Jing Cheng, Zhuo-Xu Cui, Sen Jia, Haifeng Wang, Xin Liu, Hairong Zheng, Leslie Ying, Yanjie Zhu, and Dong Liang. Deep Low-rank Priors in Dynamic MR Imaging. IEEE Transactions on Medical Imaging, accepted, 2021.
+[10] **Ziwen Ke**#, Wenqi Huang#, Jing Cheng, Zhuo-Xu Cui, Sen Jia, Haifeng Wang, Xin Liu, Hairong Zheng, Leslie Ying, Yanjie Zhu, and Dong Liang. Deep Low-rank Priors in Dynamic MR Imaging. IEEE Transactions on Medical Imaging, accepted, 2021. [Link](https://ieeexplore.ieee.org/document/9481108)
 
 [9] **Ziwen Ke**#, Zhuo-Xu Cui#, Wenqi Huang, Sen Jia, Jing Cheng, Haifeng Wang, Xin Liu, Hairong Zheng, Leslie Ying, Yanjie Zhu, and Dong Liang. Deep Manifold Learning for Dynamic MR Imaging. IEEE Transactions on Computational Imaging, under review, 2021.
 
@@ -54,8 +54,7 @@ MR dynamic imaging. IEEE Transactions on Medical Imaging, accepted, 2021.
 
 [2] Dong Liang, Jing Cheng, **Ziwen Ke**, Leslie Ying. Deep MRI Reconstruction: Inverse Problems Meet Neural Networks, IEEE Signal Processing Magazine, DOI:10.1109/MSP.2019.2950557, 2019. [Link](https://ieeexplore.ieee.org/abstract/document/8962949)
 
-[1] Shanshan Wang, Huitao Cheng, Leslie Ying, Taohui Xiao, **Ziwen Ke**, Hairong Zheng and Dong Liang, DeepcomplexMRI: Exploiting deep residual network for fast parallel MR imaging with complex convolution. Magnetic Resonance Imaging, 68, 136-147, 2020. [Link](https://www.sciencedirect.com/science/article/pii/S0730725X19305338) 
- 
+[1] Shanshan Wang, Huitao Cheng, Leslie Ying, Taohui Xiao, **Ziwen Ke**, Hairong Zheng and Dong Liang, DeepcomplexMRI: Exploiting deep residual network for fast parallel MR imaging with complex convolution. Magnetic Resonance Imaging, 68, 136-147, 2020. [Link](https://www.sciencedirect.com/science/article/pii/S0730725X19305338)
 
 
 ### Conference papers
