@@ -20,7 +20,7 @@ MR dynamic imaging. IEEE Transactions on Medical Imaging, accepted, 2021. [Link]
 
 [9] **Ziwen Ke**#, Zhuo-Xu Cui#, Wenqi Huang, Sen Jia, Jing Cheng, Haifeng Wang, Xin Liu, Hairong Zheng, Leslie Ying, Yanjie Zhu, and Dong Liang. Deep Manifold Learning for Dynamic MR Imaging. IEEE Transactions on Computational Imaging, under review, 2021.
 
-[8] Wenqi Huang#, **Ziwen Ke**#, Zhuo-Xu Cui, Jing Cheng, Zhilang Qiu, Sen Jia, Yanjie Zhu, and Dong Liang. Deep Low-rank plus Sparse Network for Dynamic MR Imaging.  Medical Image Analysis, accepted, 2021. (#co-first author)
+[8] Wenqi Huang#, **Ziwen Ke**#, Zhuo-Xu Cui, Jing Cheng, Zhilang Qiu, Sen Jia, Yanjie Zhu, and Dong Liang. Deep Low-rank plus Sparse Network for Dynamic MR Imaging.  Medical Image Analysis, accepted, 2021. (#co-first author) [Link](https://www.sciencedirect.com/science/article/pii/S136184152100236X)
 
 [7] Huangxuan Zhao#, **Ziwen Ke**#, Ke Li, Ningbo Chen, Liang Song, Chuansheng Zheng, Dong Liang, and Chengbo Liu. Deep learning enables superior photoacoustic imaging at ultra-low laser dosages. Advanced Science, DOI: 10.1002/advs.202003097, accepted, 2020. (#co-first author) [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202003097)
 
