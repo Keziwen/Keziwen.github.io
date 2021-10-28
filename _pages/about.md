@@ -93,7 +93,7 @@ PCT/CN2020/137655.
 [1] Dong Liang, Qingyong Zhu, Zhuoxu Cui, **Ziwen Ke**, Zhilang Qiu, Xin Liu, Hairong Zheng. Image reconstruction methods and devices, electronic equipment and machine-readable storage media. CN202011440541.8.
 
 ## Honors/Awards
-[14] "Dean's Scholarship - Special Award", 2021, Chinese Academy of Sciences.
+[14] "President Scholarship - Special Prize", 2021, Chinese Academy of Sciences.
 
 [13] "Dean's Scholarship - Special Award", 2021, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences.
 
