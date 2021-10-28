@@ -118,7 +118,7 @@ PCT/CN2020/137655.
 Honors/Awards
 ======
 
-[14] "Dean's Scholarship - Special Award", 2021, Chinese Academy of Sciences.
+[14] "President Scholarship - Special Prize", 2021, Chinese Academy of Sciences.
 
 [13] "Dean's Scholarship - Special Award", 2021, Shenzhen Institutes of Advanced Technology, Chinese Academy of Sciences.
 
