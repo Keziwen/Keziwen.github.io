@@ -17,7 +17,7 @@ MR dynamic imaging. IEEE Transactions on Medical Imaging, accepted, 2021. [Link]
 
 [10] **Ziwen Ke**#, Wenqi Huang#, Jing Cheng, Zhuo-Xu Cui, Sen Jia, Haifeng Wang, Xin Liu, Hairong Zheng, Leslie Ying, Yanjie Zhu, and Dong Liang. Deep Low-rank Priors in Dynamic MR Imaging. IEEE Transactions on Medical Imaging, accepted, 2021. [Link](https://ieeexplore.ieee.org/document/9481108)
 
-[9] **Ziwen Ke**#, Zhuo-Xu Cui#, Wenqi Huang, Sen Jia, Jing Cheng, Haifeng Wang, Xin Liu, Hairong Zheng, Leslie Ying, Yanjie Zhu, and Dong Liang. Deep Manifold Learning for Dynamic MR Imaging. IEEE Transactions on Computational Imaging, accepted, 2021.
+[9] **Ziwen Ke**#, Zhuo-Xu Cui#, Wenqi Huang, Sen Jia, Jing Cheng, Haifeng Wang, Xin Liu, Hairong Zheng, Leslie Ying, Yanjie Zhu, and Dong Liang. Deep Manifold Learning for Dynamic MR Imaging. IEEE Transactions on Computational Imaging, accepted, 2021. [Link](https://ieeexplore.ieee.org/document/9632354)
 
 [8] Wenqi Huang#, **Ziwen Ke**#, Zhuo-Xu Cui, Jing Cheng, Zhilang Qiu, Sen Jia, Yanjie Zhu, and Dong Liang. Deep Low-rank plus Sparse Network for Dynamic MR Imaging.  Medical Image Analysis, accepted, 2021. (#co-first author) [Link](https://www.sciencedirect.com/science/article/pii/S136184152100236X)
 
