@@ -39,7 +39,7 @@ MR dynamic imaging. IEEE Transactions on Medical Imaging, accepted, 2021. [Link]
 
 ### Conference papers
 [10]  **Ziwen Ke**, Yibo Zhao, Yudu Li, Rong Guo, Zhi-Pei Liang, and Yao Li. Improved Reconstruction for High-Resolution QSM from Highly Sparse Unsuppressed Water
-Signals of 1H-MRSI Scans. Proc. 31th Annual Meeting of ISMRM, Toronto, ON, Canada, 2023, No.3237. **Oral**
+Signals of 1H-MRSI Scans. Proc. 31th Annual Meeting of ISMRM, Toronto, ON, Canada, 2023, No.3237. **Oral (MERIT AWARD: MAGNA SUM LAUDE)**
 
 [9] **Ziwen Ke**, Yue Guan, Yudu Li, Yunpeng Zhang, Tianyao Wang, Ziyu Meng, Ting Zhao, Yujie Hu, Ruihao Liu, Huixiang Zhuang, Zhi-Pei Liang, Yao Li. Learned Subspace Model Enables Ultrafast Neonatal Brain MR Imaging. Proc. 30th Annual Meeting of ISMRM, Online, 2022, No.4560.
 
