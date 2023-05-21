@@ -98,6 +98,8 @@ PCT/CN2020/137655.
 [1] Dong Liang, Qingyong Zhu, Zhuoxu Cui, **Ziwen Ke**, Zhilang Qiu, Xin Liu, Hairong Zheng. Image reconstruction methods and devices, electronic equipment and machine-readable storage media. CN202011440541.8.
 
 ## Honors/Awards
+[17] "Merit Award: MAGNA SUM LAUDE", 2023, International Society for Magnetic Resonance in Medicine (ISMRM).
+
 [16] "The Fellowship of China Postdoctoral Science Foundation (First Prize)", 2022, China Postdoctoral Science Foundation.
 
 [15] "Super Postdoctor", 2021, Shanghai Municipal Human Resources and Social Security Bureau.
