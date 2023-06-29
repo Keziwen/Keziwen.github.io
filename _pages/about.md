@@ -12,6 +12,7 @@ Ziwen Ke is currently conducting postdoctor research at Shanghai Jiao Tong Unive
 
 ## Publications
 ### Journal papers
+[12] Tianxiao Zhang, Yibo Zhao, Wen Jin, Yudu Li, Rong Guo, **Ziwen Ke**, Jie Luo, Yao Li, and Zhi-Pei Liang. B1 mapping using pre-learned subspaces for quantitative brain imaging. Magnetic Resonance in Medicine, 2023. [Link](https://doi.org/10.1002/mrm.29764)
 
 [11] Jing Cheng, Zhuo-Xu Cui, Wenqi Huang, **Ziwen Ke**, Leslie Ying, Haifeng Wang, Yanjie Zhu, and Dong Liang. Learning data consistency and its application to
 MR dynamic imaging. IEEE Transactions on Medical Imaging, accepted, 2021. [Link](https://ieeexplore.ieee.org/document/9481093)
