@@ -12,8 +12,9 @@ Ziwen Ke is currently conducting postdoctor research at Shanghai Jiao Tong Unive
 
 ## Publications
 ### Journal papers
-[13] Zhuo-Xu Cui, Sen Jia, Jing Cheng, Qingyong Zhu, Yuanyuan Liu, Kankan Zhao, **Ziwen Ke**, Wenqi Huang, Haifeng Wang, Yanjie Zhu, Leslie Ying, and Dong Liang. 
-IEEE Transactions on Medical Imaging, accepted, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10177777) 
+[14] Chuanming Yu, Yu Guan, **Ziwen Ke**, Ke Lei, Dong Liang, Qiegen Liu. Universal generative modeling in dual domains for dynamic MRI. NMR in Biomedicine, e5011, 2023. [Link](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/nbm.5011)
+
+[13] Zhuo-Xu Cui, Sen Jia, Jing Cheng, Qingyong Zhu, Yuanyuan Liu, Kankan Zhao, **Ziwen Ke**, Wenqi Huang, Haifeng Wang, Yanjie Zhu, Leslie Ying, and Dong Liang. Equilibrated Zeroth-Order Unrolled Deep Network for Parallel MR Imaging. IEEE Transactions on Medical Imaging, accepted, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10177777) 
 
 [12] Tianxiao Zhang, Yibo Zhao, Wen Jin, Yudu Li, Rong Guo, **Ziwen Ke**, Jie Luo, Yao Li, and Zhi-Pei Liang. B1 mapping using pre-learned subspaces for quantitative brain imaging. Magnetic Resonance in Medicine, 2023. [Link](https://doi.org/10.1002/mrm.29764)
 
