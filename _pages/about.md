@@ -12,7 +12,7 @@ Ziwen Ke is a joint postdoctoral fellow at Shanghai Jiao Tong University and Uni
 
 ## Publications
 ### Journal papers
-[14] Yue Guan, Yudu Li, **Ziwen Ke**, Xi Peng, Ruihao Liu, Yao Li, Yiping P Du, Zhi-Pei Liang. Learning-Assisted Fast Determination of Regularization Parameter in Constrained Image Reconstruction. IEEE Transactions on Biomedical Engineering, Early Access, 2024. [Link](https://doi.org/10.1109/TBME.2024.3367762)
+[15] Yue Guan, Yudu Li, **Ziwen Ke**, Xi Peng, Ruihao Liu, Yao Li, Yiping P Du, Zhi-Pei Liang. Learning-Assisted Fast Determination of Regularization Parameter in Constrained Image Reconstruction. IEEE Transactions on Biomedical Engineering, Early Access, 2024. [Link](https://doi.org/10.1109/TBME.2024.3367762)
 
 [14] Chuanming Yu, Yu Guan, **Ziwen Ke**, Ke Lei, Dong Liang, Qiegen Liu. Universal generative modeling in dual domains for dynamic MRI. NMR in Biomedicine, e5011, 2023. [Link](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/nbm.5011)
 
