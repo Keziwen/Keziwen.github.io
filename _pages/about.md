@@ -8,10 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-Ziwen Ke is currently conducting postdoctor research at Shanghai Jiao Tong University, Shanghai, China. He received the Ph.D. degree in pattern recognition and intelligent system from University of Chinese Academy of Sciences, Beijing, China, in 2021. He received his bachelor's degree in biomedical engineering from Southern Medical University in 2016. His research interests include image reconstruction, dynamic signal processing, magnetic resonance imaging and spectroscopy, and deep learning.
+Ziwen Ke is a joint postdoctoral fellow at Shanghai Jiao Tong University and University of Illinois at Urbana-Champaign. He received the Ph.D. degree in pattern recognition and intelligent system from University of Chinese Academy of Sciences, Beijing, China, in 2021. He received his bachelor's degree in biomedical engineering from Southern Medical University in 2016. His research interests include image reconstruction, dynamic signal processing, magnetic resonance imaging and spectroscopy, and deep learning.
 
 ## Publications
 ### Journal papers
+[14] Yue Guan, Yudu Li, **Ziwen Ke**, Xi Peng, Ruihao Liu, Yao Li, Yiping P Du, Zhi-Pei Liang. Learning-Assisted Fast Determination of Regularization Parameter in Constrained Image Reconstruction. IEEE Transactions on Biomedical Engineering, Early Access, 2024. [Link](https://doi.org/10.1109/TBME.2024.3367762)
+
 [14] Chuanming Yu, Yu Guan, **Ziwen Ke**, Ke Lei, Dong Liang, Qiegen Liu. Universal generative modeling in dual domains for dynamic MRI. NMR in Biomedicine, e5011, 2023. [Link](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/nbm.5011)
 
 [13] Zhuo-Xu Cui, Sen Jia, Jing Cheng, Qingyong Zhu, Yuanyuan Liu, Kankan Zhao, **Ziwen Ke**, Wenqi Huang, Haifeng Wang, Yanjie Zhu, Leslie Ying, and Dong Liang. Equilibrated Zeroth-Order Unrolled Deep Network for Parallel MR Imaging. IEEE Transactions on Medical Imaging, accepted, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10177777) 
@@ -103,6 +105,8 @@ PCT/CN2020/137655.
 [1] Dong Liang, Qingyong Zhu, Zhuoxu Cui, **Ziwen Ke**, Zhilang Qiu, Xin Liu, Hairong Zheng. Image reconstruction methods and devices, electronic equipment and machine-readable storage media. CN202011440541.8.
 
 ## Honors/Awards
+[19] "Shanghai Jiao Tong Unversity Overseas Joint Postdoctoral Fellowship Program", 2024-2027, Shanghai Jiao Tong Unversity.
+
 [18] "Distinguished Reviewer", 2023, IEEE Transactions on Medical Imaging.
 
 [17] "Merit Award: MAGNA SUM LAUDE", 2023, International Society for Magnetic Resonance in Medicine (ISMRM).
