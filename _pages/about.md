@@ -105,6 +105,8 @@ PCT/CN2020/137655.
 [1] Dong Liang, Qingyong Zhu, Zhuoxu Cui, **Ziwen Ke**, Zhilang Qiu, Xin Liu, Hairong Zheng. Image reconstruction methods and devices, electronic equipment and machine-readable storage media. CN202011440541.8.
 
 ## Honors/Awards
+[20] "Distinguished Reviewer", 2024, IEEE Transactions on Medical Imaging.
+
 [19] "Shanghai Jiao Tong Unversity Overseas Joint Postdoctoral Fellowship Program", 2024-2027, Shanghai Jiao Tong Unversity.
 
 [18] "Distinguished Reviewer", 2023, IEEE Transactions on Medical Imaging.
