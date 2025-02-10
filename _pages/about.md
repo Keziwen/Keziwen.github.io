@@ -12,6 +12,8 @@ Ziwen Ke is a joint postdoctoral fellow at Shanghai Jiao Tong University and Uni
 
 ## Publications
 ### Journal papers
+[16] **Ziwen Ke**, Yue Guan, Tianyao Wang, Huixiang Zhuang, Zijun Cheng, Yunpeng Zhang, Jing-Ya Ren, Su-Zhen Dong, and Yao Li. Fast and Stable Neonatal Brain MR Imaging Using Integrated Learned Subspace Model and Deep Learning. IEEE Transactions on Biomedical Engineering, Accepted, 2025.
+
 [15] Yue Guan, Yudu Li, **Ziwen Ke**, Xi Peng, Ruihao Liu, Yao Li, Yiping P Du, Zhi-Pei Liang. Learning-Assisted Fast Determination of Regularization Parameter in Constrained Image Reconstruction. IEEE Transactions on Biomedical Engineering, Early Access, 2024. [Link](https://doi.org/10.1109/TBME.2024.3367762)
 
 [14] Chuanming Yu, Yu Guan, **Ziwen Ke**, Ke Lei, Dong Liang, Qiegen Liu. Universal generative modeling in dual domains for dynamic MRI. NMR in Biomedicine, e5011, 2023. [Link](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/nbm.5011)
@@ -45,6 +47,8 @@ MR dynamic imaging. IEEE Transactions on Medical Imaging, accepted, 2021. [Link]
 
 
 ### Conference papers
+[11] **Ziwen Ke**, Ziyang Xu, Huixiang Zhuang, Weijun Tang, Yao Li, and Zhi-Pei Liang. AI-powered 0.3 mm Ultrahigh Resolution MR Brain Imaging. Proc. 33th Annual Meeting of ISMRM, Honolulu, Hawai'i, USA, 2025, No.0823. **Oral**
+
 [10]  **Ziwen Ke**, Yibo Zhao, Yudu Li, Rong Guo, Zhi-Pei Liang, and Yao Li. Improved Reconstruction for High-Resolution QSM from Highly Sparse Unsuppressed Water
 Signals of 1H-MRSI Scans. Proc. 31th Annual Meeting of ISMRM, Toronto, ON, Canada, 2023, No.3237. **Oral (MERIT AWARD: MAGNA SUM LAUDE)**
 
