@@ -47,24 +47,26 @@ MR dynamic imaging. IEEE Transactions on Medical Imaging, accepted, 2021. [Link]
 
 
 ### Conference papers
-[15] **Ziwen Ke**, Ziyang Xu, Huixiang Zhuang, Weijun Tang, Yao Li, and Zhi-Pei Liang. AI-powered 0.3 mm Ultrahigh Resolution MR Brain Imaging. Proc. 33th Annual Meeting of ISMRM, Honolulu, Hawai'i, USA, 2025, No.0823. **Oral**
+[16] **Ziwen Ke**, Ziyang Xu, Huixiang Zhuang, Weijun Tang, Yao Li, and Zhi-Pei Liang. AI-powered 0.3 mm Ultrahigh Resolution MR Brain Imaging. Proc. 33th Annual Meeting of ISMRM, Honolulu, Hawai'i, USA, 2025, No.0823. **Oral**
 
-[14]  **Ziwen Ke**, Yibo Zhao, Yudu Li, Rong Guo, Zhi-Pei Liang, and Yao Li. Improved Reconstruction for High-Resolution QSM from Highly Sparse Unsuppressed Water
+[15]  **Ziwen Ke**, Yibo Zhao, Yudu Li, Rong Guo, Zhi-Pei Liang, and Yao Li. Improved Reconstruction for High-Resolution QSM from Highly Sparse Unsuppressed Water
 Signals of 1H-MRSI Scans. Proc. 31th Annual Meeting of ISMRM, Toronto, ON, Canada, 2023, No.3237. **Oral (MERIT AWARD: MAGNA SUM LAUDE)**
 
-[13] **Ziwen Ke**, Yue Guan, Yudu Li, Yunpeng Zhang, Tianyao Wang, Ziyu Meng, Ting Zhao, Yujie Hu, Ruihao Liu, Huixiang Zhuang, Zhi-Pei Liang, Yao Li. Learned Subspace Model Enables Ultrafast Neonatal Brain MR Imaging. Proc. 30th Annual Meeting of ISMRM, Online, 2022, No.4560.
+[14] **Ziwen Ke**, Yue Guan, Yudu Li, Yunpeng Zhang, Tianyao Wang, Ziyu Meng, Ting Zhao, Yujie Hu, Ruihao Liu, Huixiang Zhuang, Zhi-Pei Liang, Yao Li. Learned Subspace Model Enables Ultrafast Neonatal Brain MR Imaging. Proc. 30th Annual Meeting of ISMRM, Online, 2022, No.4560.
 
-[12] **Ziwen Ke**, Zhuo-Xu Cui, Jing Cheng, Leslie Ying, Xin Liu, Hairong Zheng, Yanjie Zhu, Dong Liang. Deep Manifold Learning for Dynamic MR Imaging. Proc. 29th Annual Meeting of ISMRM, Online, 2021, No.1820.
+[13] **Ziwen Ke**, Zhuo-Xu Cui, Jing Cheng, Leslie Ying, Xin Liu, Hairong Zheng, Yanjie Zhu, Dong Liang. Deep Manifold Learning for Dynamic MR Imaging. Proc. 29th Annual Meeting of ISMRM, Online, 2021, No.1820.
 
-[11] **Ziwen Ke**, Wenqi Huang, Leslie Ying, Xin Liu, Hairong Zheng, Yanjie Zhu, Dong Liang. A Plug-and-play Low-rank Network Module in Dynamic MR Imaging. Proc. 29th Annual Meeting of ISMRM, Online, 2021, No.2784.
+[12] **Ziwen Ke**, Wenqi Huang, Leslie Ying, Xin Liu, Hairong Zheng, Yanjie Zhu, Dong Liang. A Plug-and-play Low-rank Network Module in Dynamic MR Imaging. Proc. 29th Annual Meeting of ISMRM, Online, 2021, No.2784.
 
-[10] **Ziwen Ke**, Yanjie Zhu, Jing Cheng, Leslie Ying, Xin Liu, Hairong Zheng, and Dong Liang. An Unsupervised Deep Learning Method for Parallel MR Cardiac Imaging via Time-Interleaved Sampling. Proc. 28th Annual Meeting of ISMRM, Paris, France, 2020, No.1000. **Oral**
+[11] **Ziwen Ke**, Yanjie Zhu, Jing Cheng, Leslie Ying, Xin Liu, Hairong Zheng, and Dong Liang. An Unsupervised Deep Learning Method for Parallel MR Cardiac Imaging via Time-Interleaved Sampling. Proc. 28th Annual Meeting of ISMRM, Paris, France, 2020, No.1000. **Oral**
 
-[9] **Ziwen Ke**, Yanjie Zhu, Jing Cheng, Leslie Ying, Xin Liu, Hairong Zheng, and Dong Liang. Assessment of the Generalization of Learned Unsupervised Deep Learning Method. Proc. 28th Annual Meeting of ISMRM, Paris, France, 2020, No.3630.
+[10] **Ziwen Ke**, Yanjie Zhu, Jing Cheng, Leslie Ying, Xin Liu, Hairong Zheng, and Dong Liang. Assessment of the Generalization of Learned Unsupervised Deep Learning Method. Proc. 28th Annual Meeting of ISMRM, Paris, France, 2020, No.3630.
 
-[8] **Ziwen Ke**, Shanshan Wang, Cheng Li, Huitao Cheng, Leslie Ying, Xin liu, Hairong Zheng, Dong Liang. A Cascaded Residual Dense Network for Cardiac MR Imaging. Proc. 27th Annual Meeting of ISMRM, Montreal, QC, Canada, 2019, No.4666.
+[9] **Ziwen Ke**, Shanshan Wang, Cheng Li, Huitao Cheng, Leslie Ying, Xin liu, Hairong Zheng, Dong Liang. A Cascaded Residual Dense Network for Cardiac MR Imaging. Proc. 27th Annual Meeting of ISMRM, Montreal, QC, Canada, 2019, No.4666.
 
-[7] **Ziwen Ke**, Shanshan Wang, Huitao Cheng, Leslie Ying, Xin liu, Hairong Zheng, Dong Liang. Multi-supervised Learning in Cross-domain Networks for Cardiac Imaging. Proc. 27th Annual Meeting of ISMRM, Montreal, QC, Canada, 2019, No.4701.
+[8] **Ziwen Ke**, Shanshan Wang, Huitao Cheng, Leslie Ying, Xin liu, Hairong Zheng, Dong Liang. Multi-supervised Learning in Cross-domain Networks for Cardiac Imaging. Proc. 27th Annual Meeting of ISMRM, Montreal, QC, Canada, 2019, No.4701.
+
+[7] Huixiang Zhuang, **Ziwen Ke**, Yibo Zhao, Rong Guo, Yudu Li, Wen Jin, Zijun Cheng, Yaoyu Zhang, Weijun Tang, Miao Zhang, Zhi-Pei Liang, Yao Li. Learning-Based Motion Correction for High-Resolution 3D MRSI of the Brain without Water Suppression. Proc. 33th Annual Meeting of ISMRM, Honolulu, Hawai'i, USA, 2025.
 
 [6] Ziyang Xu, Rong Guo, **Ziwen Ke**, Yudu Li, Yibo Zhao, Wen Jin, Ziyu Meng, Yao Li, and Zhi-Pei Liang. Denoising ASL Images Using Distribution Remapping-Based Deep Learning. Proc. 33th Annual Meeting of ISMRM, Honolulu, Hawai'i, USA, 2025, No.0082. **Oral**
 
