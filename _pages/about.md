@@ -14,57 +14,66 @@ Ziwen Ke is a joint postdoctoral fellow at Shanghai Jiao Tong University and Uni
 ### Journal papers
 [16] **Ziwen Ke**, Yue Guan, Tianyao Wang, Huixiang Zhuang, Zijun Cheng, Yunpeng Zhang, Jing-Ya Ren, Su-Zhen Dong, and Yao Li. Fast and Stable Neonatal Brain MR Imaging Using Integrated Learned Subspace Model and Deep Learning. IEEE Transactions on Biomedical Engineering, Accepted, 2025.
 
-[15] Yue Guan, Yudu Li, **Ziwen Ke**, Xi Peng, Ruihao Liu, Yao Li, Yiping P Du, Zhi-Pei Liang. Learning-Assisted Fast Determination of Regularization Parameter in Constrained Image Reconstruction. IEEE Transactions on Biomedical Engineering, Early Access, 2024. [Link](https://doi.org/10.1109/TBME.2024.3367762)
+[15] **Ziwen Ke**#, Wenqi Huang#, Jing Cheng, Zhuo-Xu Cui, Sen Jia, Haifeng Wang, Xin Liu, Hairong Zheng, Leslie Ying, Yanjie Zhu, and Dong Liang. Deep Low-rank Priors in Dynamic MR Imaging. IEEE Transactions on Medical Imaging, accepted, 2021. [Link](https://ieeexplore.ieee.org/document/9481108)
 
-[14] Chuanming Yu, Yu Guan, **Ziwen Ke**, Ke Lei, Dong Liang, Qiegen Liu. Universal generative modeling in dual domains for dynamic MRI. NMR in Biomedicine, e5011, 2023. [Link](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/nbm.5011)
+[14] **Ziwen Ke**#, Zhuo-Xu Cui#, Wenqi Huang, Sen Jia, Jing Cheng, Haifeng Wang, Xin Liu, Hairong Zheng, Leslie Ying, Yanjie Zhu, and Dong Liang. Deep Manifold Learning for Dynamic MR Imaging. IEEE Transactions on Computational Imaging, accepted, 2021. [Link](https://ieeexplore.ieee.org/document/9632354)
 
-[13] Zhuo-Xu Cui, Sen Jia, Jing Cheng, Qingyong Zhu, Yuanyuan Liu, Kankan Zhao, **Ziwen Ke**, Wenqi Huang, Haifeng Wang, Yanjie Zhu, Leslie Ying, and Dong Liang. Equilibrated Zeroth-Order Unrolled Deep Network for Parallel MR Imaging. IEEE Transactions on Medical Imaging, accepted, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10177777) 
+[13] **Ziwen Ke**, Jing Cheng, Leslie Ying, Hairong Zheng, Yanjie Zhu, Dong Liang. An Unsupervised Deep Learning Method for Multi-coil Cine MRI. Physics in Medicine and Biology, 65(23), 235041, 2020. [Link](https://iopscience.iop.org/article/10.1088/1361-6560/abaffa)
 
-[12] Tianxiao Zhang, Yibo Zhao, Wen Jin, Yudu Li, Rong Guo, **Ziwen Ke**, Jie Luo, Yao Li, and Zhi-Pei Liang. B1 mapping using pre-learned subspaces for quantitative brain imaging. Magnetic Resonance in Medicine, 2023. [Link](https://doi.org/10.1002/mrm.29764)
+[12] **Ziwen Ke**, Yanjie Zhu, Dong Liang. Cascaded Residual Dense Networks for Dynamic MR Imaging with Edge-enhanced Loss Constraint. Investigative Magnetic Resonance Imaging, 24(4): 214-222, 2020. [Link](https://www.koreamed.org/SearchBasic.php?RID=2510451)
 
-[11] Jing Cheng, Zhuo-Xu Cui, Wenqi Huang, **Ziwen Ke**, Leslie Ying, Haifeng Wang, Yanjie Zhu, and Dong Liang. Learning data consistency and its application to
+[11] Wenqi Huang#, **Ziwen Ke**#, Zhuo-Xu Cui, Jing Cheng, Zhilang Qiu, Sen Jia, Yanjie Zhu, and Dong Liang. Deep Low-rank plus Sparse Network for Dynamic MR Imaging.  Medical Image Analysis, accepted, 2021. (#co-first author) [Link](https://www.sciencedirect.com/science/article/pii/S136184152100236X)
+
+[10] Huangxuan Zhao#, **Ziwen Ke**#, Ke Li, Ningbo Chen, Liang Song, Chuansheng Zheng, Dong Liang, and Chengbo Liu. Deep learning enables superior photoacoustic imaging at ultra-low laser dosages. Advanced Science, DOI: 10.1002/advs.202003097, accepted, 2020. (#co-first author) [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202003097)
+
+[9] Shanshan Wang#, **Ziwen Ke**#, Huitao Cheng, Sen Jia, Leslie Ying, Hairong Zheng, Dong Liang. DIMENSION: Dynamic MR Imaging with Both K-space and Spatial Prior Knowledge Obtained via Multi-Supervised Network Training. NMR in Biomedicine, DOI: 10.1002/nbm.4131, 2019.  (#co-first author) [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/nbm.4131) 
+
+[8] Huangxuan Zhao#, **Ziwen Ke**#, Ningbo Chen, Ke Li, Lidai Wang, Xiaojing Gong, Wei Zheng, Liang Song, Zhicheng Liu, Dong Liang, Chengbo Liu. A new deep learning method for image deblurring in optical microscopic systems. Journal of Biophotonics, DOI: 10.1002/jbio.201960147, 2019. (#co-first author) [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/jbio.201960147)
+
+[7] Dong Liang, Jing Cheng, **Ziwen Ke**, Leslie Ying. Deep MRI Reconstruction: Inverse Problems Meet Neural Networks, IEEE Signal Processing Magazine, DOI:10.1109/MSP.2019.2950557, 2019. [Link](https://ieeexplore.ieee.org/abstract/document/8962949)
+
+[6] Yue Guan, Yudu Li, **Ziwen Ke**, Xi Peng, Ruihao Liu, Yao Li, Yiping P Du, Zhi-Pei Liang. Learning-Assisted Fast Determination of Regularization Parameter in Constrained Image Reconstruction. IEEE Transactions on Biomedical Engineering, Early Access, 2024. [Link](https://doi.org/10.1109/TBME.2024.3367762)
+
+[5] Chuanming Yu, Yu Guan, **Ziwen Ke**, Ke Lei, Dong Liang, Qiegen Liu. Universal generative modeling in dual domains for dynamic MRI. NMR in Biomedicine, e5011, 2023. [Link](https://analyticalsciencejournals.onlinelibrary.wiley.com/doi/abs/10.1002/nbm.5011)
+
+[4] Zhuo-Xu Cui, Sen Jia, Jing Cheng, Qingyong Zhu, Yuanyuan Liu, Kankan Zhao, **Ziwen Ke**, Wenqi Huang, Haifeng Wang, Yanjie Zhu, Leslie Ying, and Dong Liang. Equilibrated Zeroth-Order Unrolled Deep Network for Parallel MR Imaging. IEEE Transactions on Medical Imaging, accepted, 2023. [Link](https://ieeexplore.ieee.org/abstract/document/10177777) 
+
+[3] Tianxiao Zhang, Yibo Zhao, Wen Jin, Yudu Li, Rong Guo, **Ziwen Ke**, Jie Luo, Yao Li, and Zhi-Pei Liang. B1 mapping using pre-learned subspaces for quantitative brain imaging. Magnetic Resonance in Medicine, 2023. [Link](https://doi.org/10.1002/mrm.29764)
+
+[2] Jing Cheng, Zhuo-Xu Cui, Wenqi Huang, **Ziwen Ke**, Leslie Ying, Haifeng Wang, Yanjie Zhu, and Dong Liang. Learning data consistency and its application to
 MR dynamic imaging. IEEE Transactions on Medical Imaging, accepted, 2021. [Link](https://ieeexplore.ieee.org/document/9481093)
-
-[10] **Ziwen Ke**#, Wenqi Huang#, Jing Cheng, Zhuo-Xu Cui, Sen Jia, Haifeng Wang, Xin Liu, Hairong Zheng, Leslie Ying, Yanjie Zhu, and Dong Liang. Deep Low-rank Priors in Dynamic MR Imaging. IEEE Transactions on Medical Imaging, accepted, 2021. [Link](https://ieeexplore.ieee.org/document/9481108)
-
-[9] **Ziwen Ke**#, Zhuo-Xu Cui#, Wenqi Huang, Sen Jia, Jing Cheng, Haifeng Wang, Xin Liu, Hairong Zheng, Leslie Ying, Yanjie Zhu, and Dong Liang. Deep Manifold Learning for Dynamic MR Imaging. IEEE Transactions on Computational Imaging, accepted, 2021. [Link](https://ieeexplore.ieee.org/document/9632354)
-
-[8] Wenqi Huang#, **Ziwen Ke**#, Zhuo-Xu Cui, Jing Cheng, Zhilang Qiu, Sen Jia, Yanjie Zhu, and Dong Liang. Deep Low-rank plus Sparse Network for Dynamic MR Imaging.  Medical Image Analysis, accepted, 2021. (#co-first author) [Link](https://www.sciencedirect.com/science/article/pii/S136184152100236X)
-
-[7] Huangxuan Zhao#, **Ziwen Ke**#, Ke Li, Ningbo Chen, Liang Song, Chuansheng Zheng, Dong Liang, and Chengbo Liu. Deep learning enables superior photoacoustic imaging at ultra-low laser dosages. Advanced Science, DOI: 10.1002/advs.202003097, accepted, 2020. (#co-first author) [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202003097)
-
-[6] **Ziwen Ke**, Jing Cheng, Leslie Ying, Hairong Zheng, Yanjie Zhu, Dong Liang. An Unsupervised Deep Learning Method for Multi-coil Cine MRI. Physics in Medicine and Biology, 65(23), 235041, 2020. [Link](https://iopscience.iop.org/article/10.1088/1361-6560/abaffa)
-
-[5] **Ziwen Ke**, Yanjie Zhu, Dong Liang. Cascaded Residual Dense Networks for Dynamic MR Imaging with Edge-enhanced Loss Constraint. Investigative Magnetic Resonance Imaging, 24(4): 214-222, 2020. [Link](https://www.koreamed.org/SearchBasic.php?RID=2510451)
-
-[4] Shanshan Wang#, **Ziwen Ke**#, Huitao Cheng, Sen Jia, Leslie Ying, Hairong Zheng, Dong Liang. DIMENSION: Dynamic MR Imaging with Both K-space and Spatial Prior Knowledge Obtained via Multi-Supervised Network Training. NMR in Biomedicine, DOI: 10.1002/nbm.4131, 2019.  (#co-first author) [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/nbm.4131) 
-
-[3] Huangxuan Zhao#, **Ziwen Ke**#, Ningbo Chen, Ke Li, Lidai Wang, Xiaojing Gong, Wei Zheng, Liang Song, Zhicheng Liu, Dong Liang, Chengbo Liu. A new deep learning method for image deblurring in optical microscopic systems. Journal of Biophotonics, DOI: 10.1002/jbio.201960147, 2019. (#co-first author) [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/jbio.201960147)
-
-[2] Dong Liang, Jing Cheng, **Ziwen Ke**, Leslie Ying. Deep MRI Reconstruction: Inverse Problems Meet Neural Networks, IEEE Signal Processing Magazine, DOI:10.1109/MSP.2019.2950557, 2019. [Link](https://ieeexplore.ieee.org/abstract/document/8962949)
 
 [1] Shanshan Wang, Huitao Cheng, Leslie Ying, Taohui Xiao, **Ziwen Ke**, Hairong Zheng and Dong Liang, DeepcomplexMRI: Exploiting deep residual network for fast parallel MR imaging with complex convolution. Magnetic Resonance Imaging, 68, 136-147, 2020. [Link](https://www.sciencedirect.com/science/article/pii/S0730725X19305338) 
 
 
 ### Conference papers
-[11] **Ziwen Ke**, Ziyang Xu, Huixiang Zhuang, Weijun Tang, Yao Li, and Zhi-Pei Liang. AI-powered 0.3 mm Ultrahigh Resolution MR Brain Imaging. Proc. 33th Annual Meeting of ISMRM, Honolulu, Hawai'i, USA, 2025, No.0823. **Oral**
+[15] **Ziwen Ke**, Ziyang Xu, Huixiang Zhuang, Weijun Tang, Yao Li, and Zhi-Pei Liang. AI-powered 0.3 mm Ultrahigh Resolution MR Brain Imaging. Proc. 33th Annual Meeting of ISMRM, Honolulu, Hawai'i, USA, 2025, No.0823. **Oral**
 
-[10]  **Ziwen Ke**, Yibo Zhao, Yudu Li, Rong Guo, Zhi-Pei Liang, and Yao Li. Improved Reconstruction for High-Resolution QSM from Highly Sparse Unsuppressed Water
+[14]  **Ziwen Ke**, Yibo Zhao, Yudu Li, Rong Guo, Zhi-Pei Liang, and Yao Li. Improved Reconstruction for High-Resolution QSM from Highly Sparse Unsuppressed Water
 Signals of 1H-MRSI Scans. Proc. 31th Annual Meeting of ISMRM, Toronto, ON, Canada, 2023, No.3237. **Oral (MERIT AWARD: MAGNA SUM LAUDE)**
 
-[9] **Ziwen Ke**, Yue Guan, Yudu Li, Yunpeng Zhang, Tianyao Wang, Ziyu Meng, Ting Zhao, Yujie Hu, Ruihao Liu, Huixiang Zhuang, Zhi-Pei Liang, Yao Li. Learned Subspace Model Enables Ultrafast Neonatal Brain MR Imaging. Proc. 30th Annual Meeting of ISMRM, Online, 2022, No.4560.
+[13] **Ziwen Ke**, Yue Guan, Yudu Li, Yunpeng Zhang, Tianyao Wang, Ziyu Meng, Ting Zhao, Yujie Hu, Ruihao Liu, Huixiang Zhuang, Zhi-Pei Liang, Yao Li. Learned Subspace Model Enables Ultrafast Neonatal Brain MR Imaging. Proc. 30th Annual Meeting of ISMRM, Online, 2022, No.4560.
 
-[8] **Ziwen Ke**, Zhuo-Xu Cui, Jing Cheng, Leslie Ying, Xin Liu, Hairong Zheng, Yanjie Zhu, Dong Liang. Deep Manifold Learning for Dynamic MR Imaging. Proc. 29th Annual Meeting of ISMRM, Online, 2021, No.1820.
+[12] **Ziwen Ke**, Zhuo-Xu Cui, Jing Cheng, Leslie Ying, Xin Liu, Hairong Zheng, Yanjie Zhu, Dong Liang. Deep Manifold Learning for Dynamic MR Imaging. Proc. 29th Annual Meeting of ISMRM, Online, 2021, No.1820.
 
-[7] **Ziwen Ke**, Wenqi Huang, Leslie Ying, Xin Liu, Hairong Zheng, Yanjie Zhu, Dong Liang. A Plug-and-play Low-rank Network Module in Dynamic MR Imaging. Proc. 29th Annual Meeting of ISMRM, Online, 2021, No.2784.
+[11] **Ziwen Ke**, Wenqi Huang, Leslie Ying, Xin Liu, Hairong Zheng, Yanjie Zhu, Dong Liang. A Plug-and-play Low-rank Network Module in Dynamic MR Imaging. Proc. 29th Annual Meeting of ISMRM, Online, 2021, No.2784.
 
-[6] **Ziwen Ke**, Yanjie Zhu, Jing Cheng, Leslie Ying, Xin Liu, Hairong Zheng, and Dong Liang. An Unsupervised Deep Learning Method for Parallel MR Cardiac Imaging via Time-Interleaved Sampling. Proc. 28th Annual Meeting of ISMRM, Paris, France, 2020, No.1000. **Oral**
+[10] **Ziwen Ke**, Yanjie Zhu, Jing Cheng, Leslie Ying, Xin Liu, Hairong Zheng, and Dong Liang. An Unsupervised Deep Learning Method for Parallel MR Cardiac Imaging via Time-Interleaved Sampling. Proc. 28th Annual Meeting of ISMRM, Paris, France, 2020, No.1000. **Oral**
 
-[5] **Ziwen Ke**, Yanjie Zhu, Jing Cheng, Leslie Ying, Xin Liu, Hairong Zheng, and Dong Liang. Assessment of the Generalization of Learned Unsupervised Deep Learning Method. Proc. 28th Annual Meeting of ISMRM, Paris, France, 2020, No.3630.
+[9] **Ziwen Ke**, Yanjie Zhu, Jing Cheng, Leslie Ying, Xin Liu, Hairong Zheng, and Dong Liang. Assessment of the Generalization of Learned Unsupervised Deep Learning Method. Proc. 28th Annual Meeting of ISMRM, Paris, France, 2020, No.3630.
 
-[4] **Ziwen Ke**, Shanshan Wang, Cheng Li, Huitao Cheng, Leslie Ying, Xin liu, Hairong Zheng, Dong Liang. A Cascaded Residual Dense Network for Cardiac MR Imaging. Proc. 27th Annual Meeting of ISMRM, Montreal, QC, Canada, 2019, No.4666.
+[8] **Ziwen Ke**, Shanshan Wang, Cheng Li, Huitao Cheng, Leslie Ying, Xin liu, Hairong Zheng, Dong Liang. A Cascaded Residual Dense Network for Cardiac MR Imaging. Proc. 27th Annual Meeting of ISMRM, Montreal, QC, Canada, 2019, No.4666.
 
-[3] **Ziwen Ke**, Shanshan Wang, Huitao Cheng, Leslie Ying, Xin liu, Hairong Zheng, Dong Liang. Multi-supervised Learning in Cross-domain Networks for Cardiac Imaging. Proc. 27th Annual Meeting of ISMRM, Montreal, QC, Canada, 2019, No.4701.
+[7] **Ziwen Ke**, Shanshan Wang, Huitao Cheng, Leslie Ying, Xin liu, Hairong Zheng, Dong Liang. Multi-supervised Learning in Cross-domain Networks for Cardiac Imaging. Proc. 27th Annual Meeting of ISMRM, Montreal, QC, Canada, 2019, No.4701.
+
+[6] Ziyang Xu, Rong Guo, **Ziwen Ke**, Yudu Li, Yibo Zhao, Wen Jin, Ziyu Meng, Yao Li, and Zhi-Pei Liang. Denoising ASL Images Using Distribution Remapping-Based Deep Learning. Proc. 33th Annual Meeting of ISMRM, Honolulu, Hawai'i, USA, 2025, No.0082. **Oral**
+
+[5] Ruihao Liu, Yudu Li, Yue Guan, **Ziwen Ke**, Shuoyun Feng, Weijun Tang, Yao Li, Yiping P. Du, and Zhi-Pei Liang. Improved Myelin/Axonal/Extracellular Water Separation Using Adaptive Probabilistic Subspaces and T1W-Translated Spatial Priors. Proc. 33th Annual Meeting of ISMRM, Honolulu, Hawai'i, USA, 2025, No.2976. **Oral**
+
+[4] Yuanbo Zhang, **Ziwen Ke**, Wen Jin, Ruihao Liu, Danni Wang, Wenqi Zhang, Jingyi Li, Yao Li, and Zhi-Pei Liang. AI-Powered Accurate Lipid Segmentation for Lipid Removal from Brain MRSI Data. Proc. 33th Annual Meeting of ISMRM, Honolulu, Hawai'i, USA, 2025, No.0387.
+
+[3] Yuanbo Zhang, Yudu Li, Ruihao Liu, **Ziwen Ke**, Wen Jin, Yibo Zhao, Yao Li, and Zhi-Pei Liang. Improving Data Consistency and Generalizability in Deep Learning-Based QSM
+Reconstruction. Proc. 33th Annual Meeting of ISMRM, Honolulu, Hawai'i, USA, 2025, No.4655.
 
 [2] Shanshan Wang, **Ziwen Ke**, Huitao Cheng, Leslie Ying, Xin liu, Hairong Zheng, Dong Liang. Edge-enhanced Loss Constraint for Deep Learning Based Dynamic MR Imaging. Proc. 27th Annual Meeting of ISMRM, Montreal, QC, Canada, 2019, No.4712.
 
