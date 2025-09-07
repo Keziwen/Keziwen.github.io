@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Ziwen Ke is a joint postdoctoral fellow at Shanghai Jiao Tong University and the University of Illinois at Urbana-Champaign, under the supervision of Prof. Zhi-Pei Liang (UIUC) and Prof. Yao Li (SJTU). He received his Ph.D. in Pattern Recognition and Intelligent Systems from the University of Chinese Academy of Sciences in 2021, and a B.E. in Biomedical Engineering from Southern Medical University in 2016. His research interests include image reconstruction, dynamic signal processing, magnetic resonance imaging and spectroscopy, and deep learning.
+This is Ziwen Ke. I am a joint postdoctoral fellow at Shanghai Jiao Tong University and the University of Illinois at Urbana-Champaign, under the supervision of Prof. Zhi-Pei Liang (UIUC) and Prof. Yao Li (SJTU). I received my Ph.D. in Pattern Recognition and Intelligent Systems from the University of Chinese Academy of Sciences in 2021, advised by Prof. Dong Liang, and my B.E. in Biomedical Engineering from Southern Medical University in 2016. My research interests include image reconstruction, dynamic signal processing, magnetic resonance imaging and spectroscopy, and deep learning.
 
 ## Publications
 ### Journal papers
