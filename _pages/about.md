@@ -122,7 +122,9 @@ PCT/CN2020/137655.
 [1] Dong Liang, Qingyong Zhu, Zhuoxu Cui, **Ziwen Ke**, Zhilang Qiu, Xin Liu, Hairong Zheng. Image reconstruction methods and devices, electronic equipment and machine-readable storage media. CN202011440541.8.
 
 ## Honors/Awards
-[22] "Distinguished Reviewer", 2025, Discover Applied Sciences.
+[23] "Distinguished Reviewer", 2025, Discover Applied Sciences.
+
+[22] "Reviewer Certificate", 2024, IEEE Transactions on Pattern Analysis and Machine Intelligence.
 
 [21] "Distinguished Reviewer", 2024, Magnetic Resonance in Medicine.
 
