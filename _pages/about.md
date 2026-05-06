@@ -12,6 +12,9 @@ This is Ziwen Ke. I am a joint postdoctoral fellow at Shanghai Jiao Tong Univers
 
 ## Publications
 ### Journal papers
+[19] Yudu Li, Rong Guo, Yibo Zhao, Wen Jin, **Ziwen Ke**, Liang Chen, Xiangjun Chen, Weijun Tang, Yao Li, and Zhi-Pei Liang. Multiplexed magnetic resonance imaging. Nature, Published online, 2026. 
+[Link](https://www.nature.com/articles/s41586-026-10475-x)
+
 [18] **Ziwen Ke**#, Yibo Zhao#, Rong Guo, Yudu Li, Wen Jin, Huixiang Zhuang, Yao Li, and Zhi-Pei Liang. Motion Correction in High-Resolution 3D Brain MRSI without Water and Lipid Suppression. Magnetic Resonance in Medicine, vol. 95, pp. 1323-1335, 2026. (**Highlighted Article**) [Link](https://onlinelibrary.wiley.com/doi/10.1002/mrm.70128)
 
 [17] **Ziwen Ke**, Yue Guan, Tianyao Wang, Huixiang Zhuang, Zijun Cheng, Yunpeng Zhang, Jing-Ya Ren, Li Cao, Su-Zhen Dong, and Yao Li. Fast and Stable Neonatal Brain MR Imaging Using Integrated Learned Subspace Model and Deep Learning. IEEE Transactions on Biomedical Engineering, 72(8), pp.2331-2340, 2025. [Link](https://doi.org/10.1109/TBME.2025.3541643)
