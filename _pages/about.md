@@ -37,7 +37,7 @@ This is Ziwen Ke. I am a joint postdoctoral fellow at Shanghai Jiao Tong Univers
 
 [9] Dong Liang, Jing Cheng, **Ziwen Ke**, Leslie Ying. Deep MRI Reconstruction: Inverse Problems Meet Neural Networks, IEEE Signal Processing Magazine, 37(1), pp.141-151, 2019. [Link](https://ieeexplore.ieee.org/abstract/document/8962949)
 
-[8] Ziyang Xu, Rong Guo, **Ziwen Ke**, Yudu Li, Yibo Zhao, Wen Jin, Ruihao Liu, Ziyu Meng, Yao Li, Zhi-Pei Liang. Denoising of ASL Data Using Deep Learning Priors Generated From Distribution Remapping. Magnetic Resonance in Medicine, Early View, 2026. [Link](https://onlinelibrary.wiley.com/doi/10.1002/mrm.70128)
+[8] Ziyang Xu, Rong Guo, **Ziwen Ke**, Yudu Li, Yibo Zhao, Wen Jin, Ruihao Liu, Ziyu Meng, Yao Li, Zhi-Pei Liang. Denoising of ASL Data Using Deep Learning Priors Generated From Distribution Remapping. Magnetic Resonance in Medicine, Early View, 2026. [Link](https://onlinelibrary.wiley.com/doi/10.1002/mrm.70471)
 
 [7] Yu Guan, Kunlong Zhang, Qi Qi, Dong Wang, **Ziwen Ke**, Shaoyu Wang, Dong Liang, Qiegen Liu. Zero-Shot Dynamic MRI Reconstruction With Global-to-Local Diffusion Model. NMR in Biomedicine, 38(10), e70128, 2025. [Link](https://doi.org/10.1002/nbm.70128)
 
