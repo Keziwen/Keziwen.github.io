@@ -12,30 +12,32 @@ This is Ziwen Ke. I am a joint postdoctoral fellow at Shanghai Jiao Tong Univers
 
 ## Publications
 ### Journal papers
-[20] Yudu Li, Rong Guo, Yibo Zhao, Wen Jin, **Ziwen Ke**, Liang Chen, Xiangjun Chen, Weijun Tang, Yao Li, and Zhi-Pei Liang. Multiplexed magnetic resonance imaging. Nature, vol. 653, pp. 411–417, 2026. 
+[21] Yudu Li, Rong Guo, Yibo Zhao, Wen Jin, **Ziwen Ke**, Liang Chen, Xiangjun Chen, Weijun Tang, Yao Li, and Zhi-Pei Liang. Multiplexed magnetic resonance imaging. Nature, vol. 653, pp. 411–417, 2026. 
 [Link](https://www.nature.com/articles/s41586-026-10475-x)
 
-[19] **Ziwen Ke**#, Yibo Zhao#, Rong Guo, Yudu Li, Wen Jin, Huixiang Zhuang, Yao Li, and Zhi-Pei Liang. Motion Correction in High-Resolution 3D Brain MRSI without Water and Lipid Suppression. Magnetic Resonance in Medicine, vol. 95, pp. 1323-1335, 2026. (**Highlighted Article**) [Link](https://onlinelibrary.wiley.com/doi/10.1002/mrm.70128)
+[20] **Ziwen Ke**#, Yibo Zhao#, Rong Guo, Yudu Li, Wen Jin, Huixiang Zhuang, Yao Li, and Zhi-Pei Liang. Motion Correction in High-Resolution 3D Brain MRSI without Water and Lipid Suppression. Magnetic Resonance in Medicine, vol. 95, pp. 1323-1335, 2026. (**Highlighted Article**) [Link](https://onlinelibrary.wiley.com/doi/10.1002/mrm.70128)
 
-[18] **Ziwen Ke**, Yue Guan, Tianyao Wang, Huixiang Zhuang, Zijun Cheng, Yunpeng Zhang, Jing-Ya Ren, Li Cao, Su-Zhen Dong, and Yao Li. Fast and Stable Neonatal Brain MR Imaging Using Integrated Learned Subspace Model and Deep Learning. IEEE Transactions on Biomedical Engineering, 72(8), pp.2331-2340, 2025. [Link](https://doi.org/10.1109/TBME.2025.3541643)
+[19] **Ziwen Ke**, Yue Guan, Tianyao Wang, Huixiang Zhuang, Zijun Cheng, Yunpeng Zhang, Jing-Ya Ren, Li Cao, Su-Zhen Dong, and Yao Li. Fast and Stable Neonatal Brain MR Imaging Using Integrated Learned Subspace Model and Deep Learning. IEEE Transactions on Biomedical Engineering, 72(8), pp.2331-2340, 2025. [Link](https://doi.org/10.1109/TBME.2025.3541643)
 
-[17] **Ziwen Ke**#, Wenqi Huang#, Jing Cheng, Zhuo-Xu Cui, Sen Jia, Haifeng Wang, Xin Liu, Hairong Zheng, Leslie Ying, Yanjie Zhu, and Dong Liang. Deep Low-rank Priors in Dynamic MR Imaging. IEEE Transactions on Medical Imaging, 40(12), pp.3698-3710, 2021. [Link](https://ieeexplore.ieee.org/document/9481108)
+[18] **Ziwen Ke**#, Wenqi Huang#, Jing Cheng, Zhuo-Xu Cui, Sen Jia, Haifeng Wang, Xin Liu, Hairong Zheng, Leslie Ying, Yanjie Zhu, and Dong Liang. Deep Low-rank Priors in Dynamic MR Imaging. IEEE Transactions on Medical Imaging, 40(12), pp.3698-3710, 2021. [Link](https://ieeexplore.ieee.org/document/9481108)
 
-[16] **Ziwen Ke**#, Zhuo-Xu Cui#, Wenqi Huang, Sen Jia, Jing Cheng, Haifeng Wang, Xin Liu, Hairong Zheng, Leslie Ying, Yanjie Zhu, and Dong Liang. Deep Manifold Learning for Dynamic MR Imaging. IEEE Transactions on Computational Imaging, 7, pp.1314-1327, 2021. [Link](https://ieeexplore.ieee.org/document/9632354)
+[17] **Ziwen Ke**#, Zhuo-Xu Cui#, Wenqi Huang, Sen Jia, Jing Cheng, Haifeng Wang, Xin Liu, Hairong Zheng, Leslie Ying, Yanjie Zhu, and Dong Liang. Deep Manifold Learning for Dynamic MR Imaging. IEEE Transactions on Computational Imaging, 7, pp.1314-1327, 2021. [Link](https://ieeexplore.ieee.org/document/9632354)
 
-[15] **Ziwen Ke**, Jing Cheng, Leslie Ying, Hairong Zheng, Yanjie Zhu, Dong Liang. An Unsupervised Deep Learning Method for Multi-coil Cine MRI. Physics in Medicine and Biology, 65(23), 235041, 2020. [Link](https://iopscience.iop.org/article/10.1088/1361-6560/abaffa)
+[16] **Ziwen Ke**, Jing Cheng, Leslie Ying, Hairong Zheng, Yanjie Zhu, Dong Liang. An Unsupervised Deep Learning Method for Multi-coil Cine MRI. Physics in Medicine and Biology, 65(23), 235041, 2020. [Link](https://iopscience.iop.org/article/10.1088/1361-6560/abaffa)
 
-[14] **Ziwen Ke**, Yanjie Zhu, Dong Liang. Cascaded Residual Dense Networks for Dynamic MR Imaging with Edge-enhanced Loss Constraint. Investigative Magnetic Resonance Imaging, 24(4): 214-222, 2020. [Link](https://www.koreamed.org/SearchBasic.php?RID=2510451)
+[15] **Ziwen Ke**, Yanjie Zhu, Dong Liang. Cascaded Residual Dense Networks for Dynamic MR Imaging with Edge-enhanced Loss Constraint. Investigative Magnetic Resonance Imaging, 24(4): 214-222, 2020. [Link](https://www.koreamed.org/SearchBasic.php?RID=2510451)
 
-[13] Wenqi Huang#, **Ziwen Ke**#, Zhuo-Xu Cui, Jing Cheng, Zhilang Qiu, Sen Jia, Yanjie Zhu, and Dong Liang. Deep Low-rank plus Sparse Network for Dynamic MR Imaging.  Medical Image Analysis, 73, p.102190, 2021. (#co-first author) [Link](https://www.sciencedirect.com/science/article/pii/S136184152100236X)
+[14] Wenqi Huang#, **Ziwen Ke**#, Zhuo-Xu Cui, Jing Cheng, Zhilang Qiu, Sen Jia, Yanjie Zhu, and Dong Liang. Deep Low-rank plus Sparse Network for Dynamic MR Imaging.  Medical Image Analysis, 73, p.102190, 2021. (#co-first author) [Link](https://www.sciencedirect.com/science/article/pii/S136184152100236X)
 
-[12] Huangxuan Zhao#, **Ziwen Ke**#, Ke Li, Ningbo Chen, Liang Song, Chuansheng Zheng, Dong Liang, and Chengbo Liu. Deep learning enables superior photoacoustic imaging at ultra-low laser dosages. Advanced Science, 8(3), p.2003097, 2020. (#co-first author) [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202003097)
+[13] Huangxuan Zhao#, **Ziwen Ke**#, Ke Li, Ningbo Chen, Liang Song, Chuansheng Zheng, Dong Liang, and Chengbo Liu. Deep learning enables superior photoacoustic imaging at ultra-low laser dosages. Advanced Science, 8(3), p.2003097, 2020. (#co-first author) [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/advs.202003097)
 
-[11] Shanshan Wang#, **Ziwen Ke**#, Huitao Cheng, Sen Jia, Leslie Ying, Hairong Zheng, Dong Liang. DIMENSION: Dynamic MR Imaging with Both K-space and Spatial Prior Knowledge Obtained via Multi-Supervised Network Training. NMR in Biomedicine, 35(4), p.e4131, 2019.  (#co-first author) [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/nbm.4131) 
+[12] Shanshan Wang#, **Ziwen Ke**#, Huitao Cheng, Sen Jia, Leslie Ying, Hairong Zheng, Dong Liang. DIMENSION: Dynamic MR Imaging with Both K-space and Spatial Prior Knowledge Obtained via Multi-Supervised Network Training. NMR in Biomedicine, 35(4), p.e4131, 2019.  (#co-first author) [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/nbm.4131) 
 
-[10] Huangxuan Zhao#, **Ziwen Ke**#, Ningbo Chen, Ke Li, Lidai Wang, Xiaojing Gong, Wei Zheng, Liang Song, Zhicheng Liu, Dong Liang, Chengbo Liu. A new deep learning method for image deblurring in optical microscopic systems. Journal of Biophotonics, 13(3), p.e201960147, 2019. (#co-first author) [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/jbio.201960147)
+[11] Huangxuan Zhao#, **Ziwen Ke**#, Ningbo Chen, Ke Li, Lidai Wang, Xiaojing Gong, Wei Zheng, Liang Song, Zhicheng Liu, Dong Liang, Chengbo Liu. A new deep learning method for image deblurring in optical microscopic systems. Journal of Biophotonics, 13(3), p.e201960147, 2019. (#co-first author) [Link](https://onlinelibrary.wiley.com/doi/full/10.1002/jbio.201960147)
 
-[9] Dong Liang, Jing Cheng, **Ziwen Ke**, Leslie Ying. Deep MRI Reconstruction: Inverse Problems Meet Neural Networks, IEEE Signal Processing Magazine, 37(1), pp.141-151, 2019. [Link](https://ieeexplore.ieee.org/abstract/document/8962949)
+[10] Ruihao Liu, Yudu Li, Yue Guan, **Ziwen Ke**, Shuoyun Feng, Weijun Tang, Yiping P. Du, Yao Li, Zhi-Pei Liang. Separation of Water Components from Multi-Echo MRI Data Using Deep Learning-Assisted Subspace Modeling. IEEE Transactions on Medical Imaging, Early View, 2026. [Link](https://ieeexplore.ieee.org/document/11693051)
+
+[9] Dong Liang, Jing Cheng, **Ziwen Ke**, Leslie Ying. Deep MRI Reconstruction: Inverse Problems Meet Neural Networks. IEEE Signal Processing Magazine, 37(1), pp.141-151, 2019. [Link](https://ieeexplore.ieee.org/abstract/document/8962949)
 
 [8] Ziyang Xu, Rong Guo, **Ziwen Ke**, Yudu Li, Yibo Zhao, Wen Jin, Ruihao Liu, Ziyu Meng, Yao Li, Zhi-Pei Liang. Denoising of ASL Data Using Deep Learning Priors Generated From Distribution Remapping. Magnetic Resonance in Medicine, Early View, 2026. [Link](https://onlinelibrary.wiley.com/doi/10.1002/mrm.70471)
 
